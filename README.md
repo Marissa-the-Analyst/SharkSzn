@@ -2,6 +2,9 @@
 An exploratory analysis on shark attacks in the USA <br>
 To view the finished dashboard [click here](https://public.tableau.com/app/profile/marissa.nash/viz/SharkAttacks_17225411482070/Dashboard1)
 
+### Data Source ###
+The orginal data source came from [Kaggle](https://www.kaggle.com/datasets/teajay/global-shark-attacks) and was collected by the [Global Shark Attack File](https://www.sharkattackfile.net/index.htm)
+
 ### Scope of Work ###
 **Deliverables**
 - A visualization of shark attacks in Tableau
