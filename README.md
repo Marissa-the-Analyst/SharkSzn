@@ -5,6 +5,10 @@ To view the finished dashboard [click here](https://public.tableau.com/app/profi
 ### Data Source ###
 The orginal data source came from [Kaggle](https://www.kaggle.com/datasets/teajay/global-shark-attacks) and was collected by the [Global Shark Attack File](https://www.sharkattackfile.net/index.htm)
 
+### Programs Used ###
+MySQL <br>
+Tableau
+
 ### Scope of Work ###
 **Deliverables**
 - A visualization of shark attacks in Tableau
