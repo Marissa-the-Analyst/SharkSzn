@@ -1,0 +1,1783 @@
+"Case Number";"Season";"Year";"Type";"Country";"Area";"Sex";"Fatal (Y/N)";"Species";"original order"
+"";"Fall";"1905";"Provoked";"USA";"Florida";"M";"N";"Unknown";815
+"1900.08.21";"Summer";"1900";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";746
+"1900.09.05";"Fall";"1900";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";747
+"1901.00.00";"Summer";"1901";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";753
+"1902.07.06";"Summer";"1902";"Provoked";"USA";"New Jersey";"M";"N";"Unknown";769
+"1902.08.08";"Summer";"1902";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";771
+"1902.11.01.R";"Fall";"1902";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";774
+"1903.09.16.R";"Fall";"1903";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";785
+"1904.07.27";"Summer";"1904";"Unprovoked";"USA";"Texas";"M";"Y";"Unknown";795
+"1904.07.28";"Summer";"1904";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";796
+"1905.05.22";"Spring";"1905";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";807
+"1905.07.00";"Summer";"1905";"Unprovoked";"USA";"North Carolina";"M";"Y";"Unknown";808
+"1905.07.29";"Summer";"1905";"Unprovoked";"USA";"North Carolina";"M";"Y";"Unknown";811
+"1905.08.00.b";"Summer";"1905";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";813
+"1906.07.05.R";"Summer";"1906";"Unprovoked";"USA";"Mississippi";"M";"Y";"Unknown";828
+"1906.08.04";"Summer";"1906";"Unprovoked";"USA";"Maryland";"M";"Y";"Not Shark";829
+"1906.09.00";"Fall";"1906";"Provoked";"USA";"California";"M";"N";"Shortfin Mako Shark";831
+"1906.10.10.a.R";"Fall";"1906";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";835
+"1906.10.10.b.R";"Fall";"1906";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";836
+"1906.10.10.c.R";"Fall";"1906";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";837
+"1906.10.10.d.R";"Fall";"1906";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";838
+"1907.03.26";"Spring";"1907";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";846
+"1907.07.00";"Summer";"1907";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";848
+"1907.08.08.R";"Summer";"1907";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";851
+"1907.10.08";"Fall";"1907";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";856
+"1908.01.08";"Winter";"1908";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";863
+"1908.06.08";"Summer";"1908";"Sea Disaster";"USA";"Georgia";"M";"Y";"Unknown";867
+"1908.09.05";"Fall";"1908";"Unprovoked";"USA";"California";"M";"N";"Unknown";872
+"1909.07.15";"Summer";"1909";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";886
+"1909.07.24";"Summer";"1909";"Unprovoked";"USA";"New York";"M";"N";"Unknown";887
+"1909.08.13";"Summer";"1909";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";888
+"1909.09.04.R";"Fall";"1909";"Provoked";"USA";"Delaware";"M";"N";"Unknown";889
+"1909.12.26.R";"Fall";"1909";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";893
+"1911.05.01.R";"Spring";"1911";"Provoked";"USA";"Texas";"M";"N";"Unknown";914
+"1911.07.16.R";"Summer";"1911";"Provoked";"USA";"Delaware";"M";"N";"Unknown";916
+"1911.09.17";"Fall";"1911";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";918
+"1911.09.20";"Fall";"1911";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";919
+"1911.09.23";"Fall";"1911";"Unprovoked";"USA";"Texas";"M";"Y";"Unknown";920
+"1911.10.26";"Fall";"1911";"Unprovoked";"USA";"South Carolina";"M";"Y";"Unknown";922
+"1912.07.23";"Summer";"1912";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";935
+"1912.08.30";"Summer";"1912";"Unprovoked";"USA";"Georgia";"M";"Y";"Unknown";936
+"1913.05.21";"Spring";"1913";"Provoked";"USA";"Florida";"M";"N";"Unknown";944
+"1913.07.12";"Summer";"1913";"Unprovoked";"USA";"South Carolina";"M";"Y";"Unknown";946
+"1913.09.21";"Fall";"1913";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";951
+"1914.03.03";"Spring";"1914";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";960
+"1914.05.14";"Spring";"1914";"Provoked";"USA";"Florida";"F";"N";"Unknown";963
+"1914.07.08.R";"Summer";"1914";"Provoked";"USA";"Louisiana";"M";"N";"Unknown";968
+"1914.09.09";"Fall";"1914";"Unprovoked";"USA";"Louisiana";"M";"Y";"Unknown";970
+"1915.08.03";"Summer";"1915";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";982
+"1916.06.23";"Summer";"1916";"Provoked";"USA";"Florida";"M";"N";"Unknown";989
+"1916.06.30";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";991
+"1916.07.01";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"Y";"Unknown";992
+"1916.07.06";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"Y";"Unknown";993
+"1916.07.12.a";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"Y";"Unknown";997
+"1916.07.12.b";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"Y";"Unknown";998
+"1916.07.12.c";"Summer";"1916";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";999
+"1916.07.13";"Summer";"1916";"Unprovoked";"USA";"New York";"M";"N";"Unknown";1000
+"1916.07.26";"Summer";"1916";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";1002
+"1916.08.24";"Summer";"1916";"Unprovoked";"USA";"Louisiana";"M";"N";"Unknown";1003
+"1916.10.11";"Fall";"1916";"Provoked";"USA";"Florida";"M";"Y";"Unknown";1004
+"1917.06.03";"Summer";"1917";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1014
+"1917.07.18";"Summer";"1917";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1016
+"1917.09.09";"Fall";"1917";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";1018
+"1917.09.21";"Fall";"1917";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";1019
+"1918.11.00.b";"Fall";"1918";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";1026
+"1919.04.06";"Spring";"1919";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1034
+"1919.05.29";"Spring";"1919";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1035
+"1919.08.10";"Summer";"1919";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1036
+"1920.06.29";"Summer";"1920";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1050
+"1922.06.17";"Summer";"1922";"Unprovoked";"USA";"Florida";"F";"Y";"Unknown";1080
+"1922.07.19";"Summer";"1922";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1081
+"1922.09.28";"Fall";"1922";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1084
+"1922.12.14";"Winter";"1922";"Unprovoked";"USA";"Puerto Rico";"F";"Y";"Unknown";1088
+"1923.02.00";"Winter";"1923";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Unknown";1096
+"1924.06.18";"Summer";"1924";"Provoked";"USA";"Florida";"M";"N";"Unknown";1121
+"1924.07.04";"Summer";"1924";"Boating";"USA";"California";"M";"N";"Unknown";1122
+"1924.07.31";"Summer";"1924";"Unprovoked";"USA";"South Carolina";"M";"N";"Shortfin Mako Shark";1124
+"1924.11.21";"Fall";"1924";"Unprovoked";"USA";"Puerto Rico";"M";"Y";"Unknown";1127
+"1925.01.27.R";"Winter";"1925";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1132
+"1925.05.00";"Spring";"1925";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Unknown";1136
+"1925.08.02";"Summer";"1925";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";1138
+"1925.11.00.a";"Fall";"1925";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Unknown";1141
+"1925.11.00.b";"Fall";"1925";"Unprovoked";"USA";"Puerto Rico";"F";"N";"Unknown";1142
+"1926.04.07";"Spring";"1926";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";1151
+"1926.05.18";"Spring";"1926";"Unprovoked";"USA";"Hawaii";"M";"Y";"White Shark";1153
+"1926.07.08";"Summer";"1926";"Unprovoked";"USA";"California";"M";"N";"Unknown";1155
+"1926.07.12";"Summer";"1926";"Boating";"USA";"New Jersey";"M";"N";"Unknown";1156
+"1926.08.24";"Summer";"1926";"Unprovoked";"USA";"New Jersey";"M";"Y";"Unknown";1158
+"1927.01.08.R";"Winter";"1927";"Unprovoked";"USA";"California";"M";"N";"Unknown";1168
+"1928.06.24.R";"Summer";"1928";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1200
+"1928.09.00";"Fall";"1928";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";1204
+"1928.11.12";"Fall";"1928";"Sea Disaster";"USA";"Virginia";"M";"Y";"Unknown";1206
+"1928.11.18";"Fall";"1928";"Provoked";"USA";"New Jersey";"M";"N";"Blue Shark";1208
+"1929.03.16";"Spring";"1929";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1226
+"1929.06.23";"Summer";"1929";"Provoked";"USA";"Florida";"M";"N";"Unknown";1233
+"1929.08.05";"Summer";"1929";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1236
+"1930.03.07.R";"Spring";"1930";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1256
+"1930.05.27";"Spring";"1930";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";1260
+"1930.07.11";"Summer";"1930";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";1262
+"1930.08.06";"Summer";"1930";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1264
+"1931.06.04.R";"Summer";"1931";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1285
+"1931.06.13";"Summer";"1931";"Provoked";"USA";"Hawaii";"M";"N";"Tiger Shark";1286
+"1931.06.14";"Summer";"1931";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1287
+"1931.07.15";"Summer";"1931";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";1288
+"1931.08.06.R";"Summer";"1931";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";1291
+"1931.08.18";"Summer";"1931";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";1292
+"1931.09.21.a";"Fall";"1931";"Unprovoked";"USA";"Florida";"F";"N";"Hammerhead Shark";1299
+"1931.09.21.b";"Fall";"1931";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1300
+"1932.02.16";"Winter";"1932";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1309
+"1932.06.26";"Summer";"1932";"Provoked";"USA";"New Jersey";"M";"N";"Unknown";1315
+"1932.06.28";"Summer";"1932";"Provoked";"USA";"New Jersey";"M";"N";"Dogfish Shark";1316
+"1932.08.10";"Summer";"1932";"Provoked";"USA";"New Jersey";"M";"N";"Unknown";1321
+"1933.04.10";"Spring";"1933";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1335
+"1933.06.16";"Summer";"1933";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";1341
+"1933.06.21";"Summer";"1933";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1342
+"1933.07.07.R";"Summer";"1933";"Unprovoked";"USA";"California";"M";"N";"Tiger Shark";1344
+"1933.08.26.R";"Summer";"1933";"Unprovoked";"USA";"Connecticut";"F";"N";"Unknown";1345
+"1933.08.28.a";"Summer";"1933";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1346
+"1933.08.28.b";"Summer";"1933";"Provoked";"USA";"California";"M";"N";"Blue Shark";1347
+"1934.06.20";"Summer";"1934";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1363
+"1934.08.05";"Summer";"1934";"Unprovoked";"USA";"Georgia";"M";"N";"Unknown";1366
+"1935.04.08.R";"Spring";"1935";"Unprovoked";"USA";"California";"M";"N";"Unknown";1391
+"1935.06.18";"Summer";"1935";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";1399
+"1935.09.21";"Fall";"1935";"Unprovoked";"USA";"North Carolina";"M";"Y";"Unknown";1408
+"1936.03.30";"Spring";"1936";"Provoked";"USA";"Florida";"M";"N";"Unknown";1421
+"1936.06.06";"Summer";"1936";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1424
+"1936.07.25";"Summer";"1936";"Unprovoked";"USA";"Massachusetts";"M";"Y";"White Shark";1429
+"1936.08.00";"Summer";"1936";"Boating";"USA";"North Carolina";"M";"N";"Unknown";1430
+"1936.09.04";"Fall";"1936";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1435
+"1936.12.30";"Winter";"1936";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1442
+"1937.05.30";"Spring";"1937";"Provoked";"USA";"Texas";"M";"N";"Unknown";1453
+"1937.06.15";"Summer";"1937";"Unprovoked";"USA";"Texas";"M";"Y";"Unknown";1454
+"1937.11.13";"Fall";"1937";"Sea Disaster";"USA";"North Carolina";"M";"Y";"Unknown";1472
+"1938.07.17";"Summer";"1938";"Provoked";"USA";"California";"M";"N";"Unknown";1490
+"1938.07.18";"Summer";"1938";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1492
+"1938.08.18";"Summer";"1938";"Provoked";"USA";"California";"M";"N";"Unknown";1493
+"1939.05.03";"Spring";"1939";"Unprovoked";"USA";"Virginia";"M";"Y";"Unknown";1507
+"1939.07.14";"Summer";"1939";"Provoked";"USA";"Texas";"M";"N";"Unknown";1508
+"1939.08.01";"Summer";"1939";"Provoked";"USA";"California";"M";"N";"Unknown";1511
+"1939.10.04";"Fall";"1939";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1513
+"1940.06.30";"Summer";"1940";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";1538
+"1940.07.13.a";"Summer";"1940";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1539
+"1940.07.13.b";"Summer";"1940";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1540
+"1941.03.09";"Spring";"1941";"Provoked";"USA";"California";"M";"N";"Shortfin Mako Shark";1557
+"1941.06.15";"Summer";"1941";"Provoked";"USA";"New York";"M";"N";"Unknown";1560
+"1941.07.01";"Summer";"1941";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";1561
+"1941.08.01";"Summer";"1941";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1563
+"1942.06.04";"Summer";"1942";"Unprovoked";"USA";"Midway Atoll";"M";"N";"Unknown";1592
+"1943.07.18";"Summer";"1943";"Sea Disaster";"USA";"Florida";"M";"Y";"Unknown";1634
+"1943.12.04";"Winter";"1943";"Sea Disaster";"USA";"South Carolina";"M";"Y";"Unknown";1640
+"1944.05.31";"Spring";"1944";"Unprovoked";"USA";"Florida";"F";"N";"Blacktip Shark";1657
+"1944.09.03";"Fall";"1944";"Unprovoked";"USA";"Maryland";"M";"N";"Unknown";1662
+"1945.05.08";"Spring";"1945";"Unprovoked";"USA";"North Carolina";"M";"Y";"Unknown";1679
+"1947.06.27";"Summer";"1947";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1728
+"1947.07.27.R";"Summer";"1947";"Provoked";"USA";"California";"M";"N";"Unknown";1732
+"1947.08.04";"Summer";"1947";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";1733
+"1948.00.00.d";"Summer";"1948";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";1748
+"1948.02.13";"Winter";"1948";"Sea Disaster";"USA";"Texas";"M";"Y";"Unknown";1751
+"1948.07.01";"Summer";"1948";"Unprovoked";"USA";"US Virgin Islands";"M";"Y";"Unknown";1758
+"1948.09.19.a";"Fall";"1948";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1765
+"1948.09.19.b";"Fall";"1948";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1766
+"1949.07.16";"Summer";"1949";"Provoked";"USA";"California";"M";"N";"Shortfin Mako Shark";1793
+"1949.07.25";"Summer";"1949";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";1794
+"1950.06.06";"Summer";"1950";"Sea Disaster";"USA";"Florida";"M";"Y";"Unknown";1830
+"1950.06.25";"Summer";"1950";"Unprovoked";"USA";"New York";"M";"N";"Nurse Shark";1831
+"1950.07.00";"Summer";"1950";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";1832
+"1950.07.10";"Summer";"1950";"Unprovoked";"USA";"Texas";"M";"N";"Hammerhead Shark";1834
+"1950.10.08";"Fall";"1950";"Unprovoked";"USA";"California";"M";"N";"White Shark";1842
+"1951.06.25";"Summer";"1951";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";1861
+"1951.07.19.R";"Summer";"1951";"Unprovoked";"USA";"California";"M";"N";"Unknown";1863
+"1952.05.27";"Spring";"1952";"Unprovoked";"USA";"California";"M";"N";"White Shark";1893
+"1952.07.05";"Summer";"1952";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Tiger Shark";1894
+"1952.07.13";"Summer";"1952";"Provoked";"USA";"California";"M";"N";"Unknown";1895
+"1952.07.27.a";"Summer";"1952";"Sea Disaster";"USA";"California";"M";"Y";"Unknown";1896
+"1952.07.27.b";"Summer";"1952";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";1897
+"1952.07.27.c";"Summer";"1952";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";1898
+"1952.08.03";"Summer";"1952";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";1905
+"1952.12.03";"Winter";"1952";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";1903
+"1952.12.07";"Winter";"1952";"Unprovoked";"USA";"California";"M";"Y";"White Shark";1904
+"1953.02.18";"Winter";"1953";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";1917
+"1953.04.04";"Spring";"1953";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";1924
+"1953.07.04";"Summer";"1953";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";1928
+"1953.07.15";"Summer";"1953";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";1931
+"1953.07.16";"Summer";"1953";"Provoked";"USA";"California";"M";"N";"Unknown";1932
+"1953.07.26";"Summer";"1953";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";1933
+"1953.09.02";"Fall";"1953";"Unprovoked";"USA";"Hawaii";"M";"N";"Hammerhead Shark";1936
+"1953.09.03.R";"Fall";"1953";"Unprovoked";"USA";"New York";"M";"N";"Nurse Shark";1937
+"1953.09.18";"Fall";"1953";"Sea Disaster";"USA";"Georgia";"M";"N";"Unknown";1938
+"1953.09.20.R";"Fall";"1953";"Unprovoked";"USA";"California";"M";"N";"Unknown";1939
+"1954.06.29";"Summer";"1954";"Provoked";"USA";"California";"M";"N";"Unknown";1964
+"1954.09.21";"Fall";"1954";"Unprovoked";"USA";"California";"M";"N";"Unknown";1978
+"1954.10.07";"Fall";"1954";"Sea Disaster";"USA";"Virginia";"M";"Y";"Unknown";1982
+"1954.11.20";"Fall";"1954";"Unprovoked";"USA";"Wake Island";"M";"N";"Blacktip Reef Shark";1983
+"1955.02.06";"Winter";"1955";"Unprovoked";"USA";"California";"M";"N";"White Shark";2000
+"1955.02.10";"Winter";"1955";"Unprovoked";"USA";"California";"M";"N";"Leopard Shark";2001
+"1955.04.00";"Spring";"1955";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2005
+"1955.05.08";"Spring";"1955";"Provoked";"USA";"California";"M";"N";"Unknown";2009
+"1955.07.23";"Summer";"1955";"Unprovoked";"USA";"Rhode Island";"M";"N";"Nurse Shark";2012
+"1955.08.04.R";"Summer";"1955";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";2016
+"1955.08.30.a";"Summer";"1955";"Provoked";"USA";"California";"M";"N";"Unknown";2019
+"1955.09.03";"Fall";"1955";"Unprovoked";"USA";"California";"M";"N";"Unknown";2021
+"1955.09.04";"Fall";"1955";"Unprovoked";"USA";"California";"M";"N";"Unknown";2022
+"1955.09.20";"Fall";"1955";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2023
+"1956.07.12";"Summer";"1956";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";2054
+"1956.07.17";"Summer";"1956";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";2055
+"1956.07.26";"Summer";"1956";"Provoked";"USA";"California";"M";"N";"Unknown";2057
+"1956.07.28";"Summer";"1956";"Provoked";"USA";"Puerto Rico";"M";"Y";"Unknown";2058
+"1956.08.15.a";"Summer";"1956";"Unprovoked";"USA";"California";"M";"N";"White Shark";2065
+"1956.08.15.R";"Summer";"1956";"Unprovoked";"USA";"Puerto Rico";"M";"Y";"Unknown";2067
+"1956.09.23";"Fall";"1956";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";2073
+"1957.02.00";"Winter";"1957";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2094
+"1957.02.05";"Winter";"1957";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2096
+"1957.04.22";"Spring";"1957";"Provoked";"USA";"Florida";"M";"N";"Unknown";2101
+"1957.04.28";"Spring";"1957";"Unprovoked";"USA";"California";"M";"Y";"White Shark";2103
+"1957.05.00";"Spring";"1957";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2104
+"1957.07.15";"Summer";"1957";"Unprovoked";"USA";"North Carolina";"M";"Y";"White Shark";2109
+"1957.07.24";"Summer";"1957";"Provoked";"USA";"California";"M";"N";"Unknown";2110
+"1957.08.00";"Summer";"1957";"Provoked";"USA";"Florida";"M";"N";"Bull Shark";2111
+"1958.02.01";"Winter";"1958";"Provoked";"USA";"US Virgin Islands";"M";"N";"Nurse Shark";2136
+"1958.04.30";"Spring";"1958";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2142
+"1958.06.17";"Summer";"1958";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2145
+"1958.06.24";"Summer";"1958";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";2146
+"1958.06.26";"Summer";"1958";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2147
+"1958.07.00.a";"Summer";"1958";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2148
+"1958.07.02";"Summer";"1958";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2151
+"1958.07.10";"Summer";"1958";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";2155
+"1958.07.27.a";"Summer";"1958";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";2156
+"1958.07.27.b";"Summer";"1958";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";2157
+"1958.09.01";"Fall";"1958";"Provoked";"USA";"New York";"M";"N";"Unknown";2161
+"1958.10.05";"Fall";"1958";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2166
+"1958.10.12";"Fall";"1958";"Unprovoked";"USA";"California";"M";"N";"Unknown";2167
+"1958.12.13";"Winter";"1958";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";2173
+"1959.03.00";"Spring";"1959";"Boating";"USA";"Florida";"M";"N";"Tiger Shark";2198
+"1959.03.29";"Spring";"1959";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2200
+"1959.04.09.b";"Spring";"1959";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2203
+"1959.05.03";"Spring";"1959";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";2207
+"1959.05.07";"Spring";"1959";"Unprovoked";"USA";"California";"M";"Y";"White Shark";2208
+"1959.05.16";"Spring";"1959";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";2209
+"1959.06.14.a";"Summer";"1959";"Unprovoked";"USA";"California";"M";"Y";"White Shark";2212
+"1959.07.23.a";"Summer";"1959";"Provoked";"USA";"California";"M";"N";"Blue Shark";2219
+"1959.07.28";"Summer";"1959";"Unprovoked";"USA";"California";"M";"N";"Hammerhead Shark";2223
+"1959.08.10";"Summer";"1959";"Unprovoked";"USA";"Georgia";"F";"N";"Unknown";2227
+"1959.08.13";"Summer";"1959";"Provoked";"USA";"California";"M";"N";"Hammerhead Shark";2230
+"1959.08.14.b";"Summer";"1959";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";2232
+"1959.08.15.a";"Summer";"1959";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";2233
+"1959.09.26.b";"Fall";"1959";"Sea Disaster";"USA";"Florida";"M";"N";"Hammerhead Shark";2244
+"1959.10.04";"Fall";"1959";"Unprovoked";"USA";"California";"M";"N";"White Shark";2249
+"1959.11.10";"Fall";"1959";"Unprovoked";"USA";"California";"M";"N";"Blue Shark";2254
+"1960.03.31";"Spring";"1960";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2296
+"1960.04.24";"Spring";"1960";"Unprovoked";"USA";"California";"M";"N";"White Shark";2308
+"1960.05.19";"Spring";"1960";"Unprovoked";"USA";"California";"F";"N";"White Shark";2312
+"1960.06.04";"Summer";"1960";"Unprovoked";"USA";"Georgia";"M";"N";"Unknown";2315
+"1960.06.24";"Summer";"1960";"Unprovoked";"USA";"Florida";"M";"N";"Shortfin Mako Shark";2318
+"1960.06.29";"Summer";"1960";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";2321
+"1960.07.03";"Summer";"1960";"Provoked";"USA";"Virginia";"M";"N";"Nurse Shark";2323
+"1960.07.05";"Summer";"1960";"Unprovoked";"USA";"Mississippi";"M";"N";"Unknown";2324
+"1960.08.00";"Summer";"1960";"Unprovoked";"USA";"South Carolina";"M";"Y";"Unknown";2326
+"1960.08.04.a";"Summer";"1960";"Unprovoked";"USA";"Delaware";"M";"N";"Unknown";2327
+"1960.08.10";"Summer";"1960";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";2329
+"1960.08.21";"Summer";"1960";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";2331
+"1960.08.22";"Summer";"1960";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";2332
+"1960.08.24";"Summer";"1960";"Unprovoked";"USA";"Connecticut";"M";"N";"Unknown";2334
+"1960.08.30";"Summer";"1960";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";2337
+"1960.09.24";"Fall";"1960";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";2342
+"1960.10.25";"Fall";"1960";"Sea Disaster";"USA";"California";"M";"N";"Unknown";2350
+"1960.12.27.b";"Winter";"1960";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";2362
+"1961.02.17.b";"Winter";"1961";"Provoked";"USA";"Pennsylvania";"M";"N";"Unknown";2384
+"1961.04.16.b";"Spring";"1961";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";2398
+"1961.05.15";"Spring";"1961";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";2404
+"1961.05.21";"Spring";"1961";"Unprovoked";"USA";"California";"M";"N";"White Shark";2406
+"1961.06.06.R";"Summer";"1961";"Boating";"USA";"Florida";"M";"N";"Hammerhead Shark";2409
+"1961.06.18";"Summer";"1961";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2410
+"1961.06.24";"Summer";"1961";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";2411
+"1961.07.29";"Summer";"1961";"Provoked";"USA";"New York";"M";"N";"Unknown";2416
+"1961.08.02";"Summer";"1961";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2418
+"1961.08.16";"Summer";"1961";"Unprovoked";"USA";"South Carolina";"M";"N";"White Shark";2420
+"1961.08.20";"Summer";"1961";"Unprovoked";"USA";"California";"M";"N";"White Shark";2421
+"1961.09.26";"Fall";"1961";"Provoked";"USA";"Florida";"M";"N";"Unknown";2428
+"1961.10.00.a";"Fall";"1961";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";2429
+"1962.01.14.c";"Winter";"1962";"Unprovoked";"USA";"California";"M";"N";"White Shark";2457
+"1962.05.29";"Spring";"1962";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2481
+"1962.06.03";"Summer";"1962";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2482
+"1962.06.04";"Summer";"1962";"Provoked";"USA";"California";"M";"N";"Sevengill Shark";2483
+"1962.06.10.a";"Summer";"1962";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";2485
+"1962.06.11.a";"Summer";"1962";"Unprovoked";"USA";"California";"M";"Y";"Unknown";2487
+"1962.06.11.b";"Summer";"1962";"Unprovoked";"USA";"California";"M";"N";"Unknown";2489
+"1962.06.11.b";"Summer";"1962";"Unprovoked";"USA";"California";"M";"Y";"Unknown";2488
+"1962.06.17";"Summer";"1962";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2490
+"1962.07.07";"Summer";"1962";"Unprovoked";"USA";"Georgia";"M";"N";"Unknown";2494
+"1962.07.10";"Summer";"1962";"Unprovoked";"USA";"Georgia";"M";"N";"Unknown";2495
+"1962.07.19";"Summer";"1962";"Provoked";"USA";"California";"M";"N";"Blue Shark";2496
+"1962.07.28";"Summer";"1962";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";2498
+"1962.08.12";"Summer";"1962";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";2502
+"1962.08.19";"Summer";"1962";"Unprovoked";"USA";"Texas";"M";"Y";"Unknown";2503
+"1962.08.29";"Summer";"1962";"Provoked";"USA";"California";"M";"N";"Horn Shark";2506
+"1962.11.11";"Fall";"1962";"Unprovoked";"USA";"California";"M";"N";"White Shark";2522
+"1963.04.12";"Spring";"1963";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2547
+"1963.07.11";"Summer";"1963";"Provoked";"USA";"Mississippi";"M";"N";"Unknown";2558
+"1963.07.15";"Summer";"1963";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2559
+"1963.09.10";"Fall";"1963";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2562
+"1963.10.16";"Fall";"1963";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2568
+"1963.11.12";"Fall";"1963";"Provoked";"USA";"Florida";"M";"N";"Silky Shark";2571
+"1964.01.11";"Winter";"1964";"Unprovoked";"USA";"California";"M";"N";"White Shark";2594
+"1964.02.00.b";"Winter";"1964";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";2601
+"1964.03.05";"Spring";"1964";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2613
+"1964.07.08";"Summer";"1964";"Provoked";"USA";"Florida";"M";"N";"White Shark";2628
+"1964.07.27";"Summer";"1964";"Provoked";"USA";"Puerto Rico";"M";"N";"Nurse Shark";2632
+"1964.08.08";"Summer";"1964";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";2635
+"1964.08.21";"Summer";"1964";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2636
+"1964.08.26";"Summer";"1964";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2639
+"1965.00.00.g";"Summer";"1965";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";2661
+"1965.02.04";"Winter";"1965";"Unprovoked";"USA";"Massachusetts";"M";"N";"Unknown";2667
+"1965.03.14";"Spring";"1965";"Unprovoked";"USA";"Florida";"M";"N";"Shortfin Mako Shark";2669
+"1965.04.04.a";"Spring";"1965";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2671
+"1965.04.10";"Spring";"1965";"Unprovoked";"USA";"Florida";"M";"N";"White Shark";2673
+"1965.04.29";"Spring";"1965";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";2675
+"1965.08.26";"Summer";"1965";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";2689
+"1966.01.05";"Winter";"1966";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";2707
+"1966.01.22";"Winter";"1966";"Unprovoked";"USA";"California";"M";"N";"White Shark";2714
+"1966.04.08";"Spring";"1966";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Unknown";2721
+"1966.06.04";"Summer";"1966";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";2728
+"1966.06.11";"Summer";"1966";"Provoked";"USA";"Florida";"M";"N";"Hammerhead Shark";2729
+"1966.06.22";"Summer";"1966";"Provoked";"USA";"New Jersey";"M";"N";"Sandbar Shark";2730
+"1966.07.17.b";"Summer";"1966";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";2735
+"1966.07.19";"Summer";"1966";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";2736
+"1966.07.31";"Summer";"1966";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";2737
+"1966.08.00.a";"Summer";"1966";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2738
+"1966.09.08.b";"Fall";"1966";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2749
+"1966.09.19";"Fall";"1966";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";2753
+"1967.06.13";"Summer";"1967";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2779
+"1967.07.29";"Summer";"1967";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2782
+"1967.08.07";"Summer";"1967";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";2785
+"1967.08.27";"Summer";"1967";"Provoked";"USA";"California";"M";"N";"Blue Shark";2792
+"1967.10.17";"Fall";"1967";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";2800
+"1968.02.26";"Winter";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2821
+"1968.03.10";"Spring";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2823
+"1968.04.20";"Spring";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2828
+"1968.06.09";"Summer";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2833
+"1968.07.16";"Summer";"1968";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";2837
+"1968.07.23";"Summer";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2838
+"1968.07.27";"Summer";"1968";"Unprovoked";"USA";"California";"M";"N";"White Shark";2839
+"1968.08.21";"Summer";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2843
+"1968.10.13";"Fall";"1968";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";2848
+"1969.03.09";"Spring";"1969";"Unprovoked";"USA";"Hawaii";"M";"N";"White Shark";2864
+"1969.04.19";"Summer";"1969";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";2866
+"1969.05.24";"Spring";"1969";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2870
+"1969.05.25";"Spring";"1969";"Provoked";"USA";"Texas";"M";"N";"Unknown";2871
+"1969.06.00";"Summer";"1969";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2872
+"1969.07.20";"Summer";"1969";"Unprovoked";"USA";"California";"M";"N";"White Shark";2875
+"1969.07.22";"Summer";"1969";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";2876
+"1969.08.01";"Summer";"1969";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2879
+"1969.08.02";"Summer";"1969";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2880
+"1969.08.22";"Summer";"1969";"Provoked";"USA";"Massachusetts";"M";"N";"Unknown";2881
+"1969.08.29";"Summer";"1969";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2882
+"1969.09.06";"Fall";"1969";"Unprovoked";"USA";"California";"M";"N";"White Shark";2883
+"1969.10.14";"Fall";"1969";"Unprovoked";"USA";"Hawaii";"M";"N";"Oceanic Whitetip Shark";2884
+"1969.11.11";"Fall";"1969";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2886
+"1970.03.23";"Spring";"1970";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2905
+"1970.06.22";"Summer";"1970";"Provoked";"USA";"Florida";"M";"N";"Unknown";2914
+"1970.09.00.a";"Fall";"1970";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2917
+"1970.09.00.c";"Fall";"1970";"Unprovoked";"USA";"South Carolina";"M";"N";"Dogfish Shark";2918
+"1970.09.05";"Fall";"1970";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2920
+"1970.10.00";"Fall";"1970";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2923
+"1970.10.24";"Fall";"1970";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2924
+"1970.12.03";"Winter";"1970";"Sea Disaster";"USA";"Hawaii";"M";"N";"Unknown";2926
+"1971.07.19";"Summer";"1971";"Unprovoked";"USA";"California";"M";"N";"White Shark";2943
+"1971.07.26";"Summer";"1971";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2944
+"1971.10.02";"Fall";"1971";"Unprovoked";"USA";"California";"M";"N";"White Shark";2949
+"1971.10.23";"Fall";"1971";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2951
+"1972.03.16";"Spring";"1972";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2964
+"1972.05.28";"Spring";"1972";"Unprovoked";"USA";"California";"M";"N";"White Shark";2970
+"1972.06.10";"Summer";"1972";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2971
+"1972.08.17";"Summer";"1972";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2976
+"1972.08.29";"Summer";"1972";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2977
+"1972.09.09";"Fall";"1972";"Unprovoked";"USA";"California";"M";"N";"White Shark";2979
+"1972.10.14.a";"Fall";"1972";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";2981
+"1972.10.14.b";"Fall";"1972";"Unprovoked";"USA";"US Virgin Islands";"M";"Y";"Oceanic Whitetip Shark";2982
+"1973.01.09";"Winter";"1973";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";2995
+"1973.08.16";"Summer";"1973";"Unprovoked";"USA";"Virginia";"M";"N";"Blacktip Shark";3003
+"1973.11.24";"Fall";"1973";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3012
+"1973.12.18";"Winter";"1973";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3015
+"1974.04.12";"Spring";"1974";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3033
+"1974.05.26";"Spring";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3037
+"1974.06.20";"Summer";"1974";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3038
+"1974.07.02";"Summer";"1974";"Sea Disaster";"USA";"Florida";"M";"Y";"Unknown";3039
+"1974.07.20";"Summer";"1974";"Unprovoked";"USA";"Georgia";"M";"Y";"Unknown";3040
+"1974.07.26";"Summer";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3041
+"1974.08.05";"Summer";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3042
+"1974.09.00";"Fall";"1974";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3048
+"1974.09.02.a";"Fall";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3050
+"1974.09.02.b";"Fall";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3051
+"1974.09.14";"Fall";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3053
+"1974.09.28";"Fall";"1974";"Unprovoked";"USA";"California";"M";"N";"White Shark";3054
+"1974.11.01";"Fall";"1974";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3055
+"1975.03.16";"Spring";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3069
+"1975.05.20";"Spring";"1975";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3075
+"1975.05.25";"Spring";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3076
+"1975.06.00.c";"Summer";"1975";"Provoked";"USA";"Florida";"M";"N";"Unknown";3077
+"1975.06.02.R";"Summer";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3078
+"1975.06.15";"Summer";"1975";"Unprovoked";"USA";"Alabama";"M";"N";"Unknown";3079
+"1975.06.23.a";"Summer";"1975";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";3080
+"1975.06.23.b";"Summer";"1975";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3081
+"1975.07.04";"Summer";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3082
+"1975.07.15";"Summer";"1975";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3084
+"1975.07.19";"Summer";"1975";"Unprovoked";"USA";"California";"M";"N";"White Shark";3085
+"1975.07.23";"Summer";"1975";"Unprovoked";"USA";"California";"M";"N";"White Shark";3086
+"1975.07.26.b";"Summer";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3088
+"1975.07.30.b";"Summer";"1975";"Sea Disaster";"USA";"Oregon";"F";"Y";"Unknown";3090
+"1975.08.09";"Summer";"1975";"Unprovoked";"USA";"California";"M";"N";"White Shark";3092
+"1975.08.12";"Summer";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3093
+"1975.11.02";"Fall";"1975";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3099
+"1975.12.06";"Winter";"1975";"Unprovoked";"USA";"California";"M";"N";"White Shark";3104
+"1976.01.08";"Winter";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3108
+"1976.03.12.b";"Spring";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3116
+"1976.06.10";"Summer";"1976";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3121
+"1976.06.23";"Summer";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3122
+"1976.07.12";"Summer";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3123
+"1976.07.16";"Summer";"1976";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3124
+"1976.07.21";"Summer";"1976";"Unprovoked";"USA";"Louisiana";"M";"N";"Unknown";3125
+"1976.07.24";"Summer";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3126
+"1976.08.24";"Summer";"1976";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3127
+"1976.08.26";"Summer";"1976";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";3128
+"1976.09.06";"Fall";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";3129
+"1976.09.12.a";"Fall";"1976";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";3130
+"1976.09.12.b";"Fall";"1976";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";3131
+"1976.10.18";"Fall";"1976";"Unprovoked";"USA";"California";"M";"N";"White Shark";3136
+"1976.11.25";"Fall";"1976";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3140
+"1976.12.18";"Winter";"1976";"Unprovoked";"USA";"California";"M";"N";"White Shark";3143
+"1977.04.21";"Spring";"1977";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3153
+"1977.06.06";"Summer";"1977";"Unprovoked";"USA";"Texas";"M";"N";"Bull Shark";3157
+"1977.06.26";"Summer";"1977";"Provoked";"USA";"Florida";"M";"N";"Bull Shark";3158
+"1977.07.02";"Summer";"1977";"Sea Disaster";"USA";"California";"M";"N";"Unknown";3159
+"1977.08.14";"Summer";"1977";"Unprovoked";"USA";"California";"M";"N";"White Shark";3161
+"1977.12.19.b";"Winter";"1977";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3169
+"1977.12.31";"Winter";"1977";"Sea Disaster";"USA";"Hawaii";"M";"N";"Unknown";3170
+"1978.06.21.a";"Summer";"1978";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3182
+"1978.06.21.b";"Summer";"1978";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3183
+"1978.07.19";"Summer";"1978";"Provoked";"USA";"California";"M";"N";"Unknown";3184
+"1978.07.27";"Summer";"1978";"Sea Disaster";"USA";"South Carolina";"M";"N";"Unknown";3185
+"1978.08.01.R";"Summer";"1978";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3186
+"1978.08.05";"Summer";"1978";"Unprovoked";"USA";"California";"M";"N";"Unknown";3187
+"1978.11.23";"Fall";"1978";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3192
+"1978.11.26";"Fall";"1978";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3193
+"1979.03.11";"Spring";"1979";"Unprovoked";"USA";"California";"M";"N";"White Shark";3200
+"1979.03.24";"Spring";"1979";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3201
+"1979.04.08.a";"Spring";"1979";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3202
+"1979.04.08.b";"Spring";"1979";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3203
+"1979.06.19";"Summer";"1979";"Sea Disaster";"USA";"Florida";"M";"N";"Unknown";3209
+"1979.08.05";"Summer";"1979";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3211
+"1979.11.27";"Fall";"1979";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3217
+"1980.06.26";"Summer";"1980";"Provoked";"USA";"California";"F";"N";"Blue Shark";3239
+"1980.07.00";"Summer";"1980";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3240
+"1980.07.00";"Summer";"1980";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";3241
+"1980.07.23";"Summer";"1980";"Unprovoked";"USA";"Delaware";"F";"N";"Unknown";3242
+"1980.07.27";"Summer";"1980";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";3243
+"1980.08.04";"Summer";"1980";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3245
+"1980.08.10";"Summer";"1980";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";3246
+"1980.10.17";"Fall";"1980";"Unprovoked";"USA";"California";"M";"N";"White Shark";3248
+"1980.10.27";"Fall";"1980";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3249
+"1981.01.30";"Winter";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";3259
+"1981.02.02";"Winter";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";3261
+"1981.03.24";"Spring";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3267
+"1981.03.25";"Spring";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3268
+"1981.05.16";"Spring";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Lemon Shark";3273
+"1981.05.19";"Spring";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3274
+"1981.05.24";"Spring";"1981";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3277
+"1981.07.07";"Summer";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3281
+"1981.07.20";"Summer";"1981";"Unprovoked";"USA";"Florida";"F";"N";"Nurse Shark";3283
+"1981.08.10.a";"Summer";"1981";"Unprovoked";"USA";"Florida";"F";"Y";"Unknown";3285
+"1981.08.10.b";"Summer";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";3286
+"1981.08.24.b";"Summer";"1981";"Provoked";"USA";"Florida";"M";"N";"Unknown";3288
+"1981.08.29";"Summer";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3289
+"1981.09.03.a";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3290
+"1981.09.03.b";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3291
+"1981.09.15";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"Y";"Hammerhead Shark";3292
+"1981.09.27";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3293
+"1981.09.28";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3294
+"1981.10.01";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3295
+"1981.10.16";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3296
+"1981.10.19.a";"Fall";"1981";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3298
+"1981.11.09";"Fall";"1981";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3299
+"1981.12.13.a";"Winter";"1981";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3302
+"1981.12.19";"Winter";"1981";"Unprovoked";"USA";"California";"M";"Y";"White Shark";3304
+"1982.02.07..b";"Winter";"1982";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";3309
+"1982.02.07.a";"Winter";"1982";"Unprovoked";"USA";"California";"M";"N";"White Shark";3310
+"1982.02.13";"Winter";"1982";"Unprovoked";"USA";"Florida";"F";"Y";"Unknown";3311
+"1982.02.14.a";"Winter";"1982";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";3312
+"1982.02.14.b";"Winter";"1982";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";3313
+"1982.02.27";"Winter";"1982";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3315
+"1982.03.10";"Spring";"1982";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3319
+"1982.06.13";"Summer";"1982";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3321
+"1982.06.25";"Summer";"1982";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3322
+"1982.06.26.b";"Summer";"1982";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3324
+"1982.07.01";"Summer";"1982";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3327
+"1982.07.19";"Summer";"1982";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3329
+"1982.07.24.a";"Summer";"1982";"Unprovoked";"USA";"California";"M";"N";"White Shark";3330
+"1982.09.19";"Fall";"1982";"Unprovoked";"USA";"California";"M";"N";"White Shark";3338
+"1982.09.25";"Fall";"1982";"Unprovoked";"USA";"California";"M";"N";"White Shark";3339
+"1982.09.27";"Fall";"1982";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3340
+"1982.10.13";"Fall";"1982";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3343
+"1982.11.00";"Fall";"1982";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3344
+"1983.01.24";"Winter";"1983";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";3351
+"1983.03.10";"Spring";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3354
+"1983.04.02.b";"Spring";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3358
+"1983.05.21";"Spring";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3361
+"1983.05.24";"Spring";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3362
+"1983.05.31";"Spring";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3363
+"1983.06.20";"Summer";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3367
+"1983.06.29";"Summer";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3369
+"1983.07.05";"Summer";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3370
+"1983.07.12.b";"Summer";"1983";"Unprovoked";"USA";"Florida";"F";"N";"Hammerhead Shark";3372
+"1983.08.13.a";"Summer";"1983";"Unprovoked";"USA";"Florida";"F";"N";"Bull Shark";3378
+"1983.08.13.b";"Summer";"1983";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";3379
+"1983.08.15";"Summer";"1983";"Unprovoked";"USA";"Virginia";"F";"N";"Sand Tiger Shark";3380
+"1983.08.20.b";"Summer";"1983";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3382
+"1983.09.04";"Fall";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3383
+"1983.10.13";"Fall";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3384
+"1983.10.17.a";"Fall";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3385
+"1983.11.10.R";"Fall";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";3387
+"1983.12.25";"Winter";"1983";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3393
+"1984.06.03.b";"Summer";"1984";"Unprovoked";"USA";"Hawaii";"F";"N";"Hammerhead Shark";3409
+"1984.07.01";"Summer";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3412
+"1984.07.24.a";"Summer";"1984";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3414
+"1984.07.24.b";"Summer";"1984";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3415
+"1984.09.15";"Fall";"1984";"Unprovoked";"USA";"California";"M";"Y";"White Shark";3419
+"1984.09.17";"Fall";"1984";"Unprovoked";"USA";"California";"M";"N";"Blue Shark";3420
+"1984.09.22.a";"Fall";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";3422
+"1984.09.22.b";"Fall";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3423
+"1984.09.23";"Fall";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3424
+"1984.09.30.a";"Fall";"1984";"Unprovoked";"USA";"California";"M";"N";"White Shark";3425
+"1984.10.14.a";"Fall";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3427
+"1984.10.21";"Fall";"1984";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3429
+"1984.11.04";"Fall";"1984";"Provoked";"USA";"Florida";"M";"N";"Unknown";3431
+"1984.11.11";"Fall";"1984";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3432
+"1985.02.03";"Winter";"1985";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3444
+"1985.02.18";"Winter";"1985";"Unprovoked";"USA";"California";"M";"N";"White Shark";3445
+"1985.03.16";"Spring";"1985";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3447
+"1985.05.26";"Spring";"1985";"Unprovoked";"USA";"California";"M";"N";"Not Shark";3449
+"1985.07.19";"Summer";"1985";"Unprovoked";"USA";"South Carolina";"F";"N";"Tiger Shark";3451
+"1985.07.25.a";"Summer";"1985";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3453
+"1985.07.25.b";"Summer";"1985";"Unprovoked";"USA";"Florida";"F";"N";"Hammerhead Shark";3454
+"1985.08.22";"Summer";"1985";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3457
+"1985.09.08.a";"Fall";"1985";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3459
+"1985.09.28";"Fall";"1985";"Unprovoked";"USA";"California";"M";"N";"White Shark";3461
+"1985.10.05";"Fall";"1985";"Provoked";"USA";"Alabama";"M";"N";"Unknown";3462
+"1985.10.12";"Fall";"1985";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3463
+"1985.10.18";"Fall";"1985";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3464
+"1985.10.22";"Fall";"1985";"Unprovoked";"USA";"California";"M";"N";"Unknown";3465
+"1985.11.03";"Fall";"1985";"Provoked";"USA";"California";"M";"N";"Unknown";3467
+"1985.12.10";"Winter";"1985";"Unprovoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";3470
+"1986.01.12";"Winter";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3473
+"1986.04.20";"Spring";"1986";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3483
+"1986.07.09";"Summer";"1986";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3487
+"1986.10.00";"Fall";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";3496
+"1986.10.03";"Fall";"1986";"Unprovoked";"USA";"Florida";"F";"N";"Lemon Shark";3499
+"1986.11.04";"Fall";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3501
+"1986.11.19";"Fall";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3502
+"1986.11.30";"Fall";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3503
+"1986.12.06.a";"Winter";"1986";"Unprovoked";"USA";"California";"M";"N";"White Shark";3506
+"1986.12.11";"Winter";"1986";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3508
+"1987.02.28";"Winter";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";3516
+"1987.04.15";"Spring";"1987";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3520
+"1987.04.18";"Spring";"1987";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3521
+"1987.05.08";"Spring";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3524
+"1987.05.25";"Spring";"1987";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3525
+"1987.06.13";"Summer";"1987";"Provoked";"USA";"Florida";"M";"N";"Blacktip Shark";3526
+"1987.07.12.a";"Summer";"1987";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3530
+"1987.07.12.b";"Summer";"1987";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3531
+"1987.07.21";"Summer";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3532
+"1987.08.15";"Summer";"1987";"Unprovoked";"USA";"California";"M";"N";"White Shark";3533
+"1987.08.20";"Summer";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3534
+"1987.10.26";"Fall";"1987";"Unprovoked";"USA";"California";"M";"N";"Unknown";3540
+"1987.11.21";"Fall";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3542
+"1987.12.17";"Winter";"1987";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3544
+"1988.01.14";"Winter";"1988";"Provoked";"USA";"Louisiana";"M";"N";"Shortfin Mako Shark";3549
+"1988.03.25";"Spring";"1988";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3559
+"1988.03.31";"Spring";"1988";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3560
+"1988.04.14.a";"Spring";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3562
+"1988.04.14.b";"Spring";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3563
+"1988.04.15a";"Spring";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3565
+"1988.04.24";"Spring";"1988";"Unprovoked";"USA";"California";"M";"N";"White Shark";3566
+"1988.05.04";"Spring";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3568
+"1988.05.10";"Spring";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3569
+"1988.06.01";"Summer";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3571
+"1988.06.05";"Summer";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3572
+"1988.06.09";"Summer";"1988";"Unprovoked";"USA";"South Carolina";"M";"N";"Sand Tiger Shark";3573
+"1988.06.16";"Summer";"1988";"Unprovoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";3574
+"1988.07.04.b";"Summer";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3578
+"1988.07.11";"Summer";"1988";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3579
+"1988.08.11";"Summer";"1988";"Unprovoked";"USA";"California";"M";"N";"White Shark";3583
+"1988.08.22.b";"Summer";"1988";"Provoked";"USA";"Louisiana";"M";"N";"Tiger Shark";3586
+"1988.09.13.a";"Fall";"1988";"Unprovoked";"USA";"Florida";"M";"Y";"Bull Shark";3587
+"1988.09.13.b";"Fall";"1988";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3588
+"1988.09.28";"Fall";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3589
+"1988.10.00";"Fall";"1988";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3590
+"1988.10.10";"Fall";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3592
+"1988.10.11";"Fall";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3593
+"1988.10.14";"Fall";"1988";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3594
+"1988.10.23";"Fall";"1988";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3596
+"1989.01.08";"Winter";"1989";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3604
+"1989.01.20.b";"Winter";"1989";"Unprovoked";"USA";"Hawaii";"M";"N";"Hammerhead Shark";3606
+"1989.01.26.a";"Winter";"1989";"Unprovoked";"USA";"California";"F";"Y";"White Shark";3607
+"1989.04.00";"Spring";"1989";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3614
+"1989.04.03";"Spring";"1989";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3615
+"1989.04.12";"Spring";"1989";"Unprovoked";"USA";"Washington";"M";"N";"White Shark";3617
+"1989.04.23";"Spring";"1989";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3618
+"1989.06.17";"Summer";"1989";"Unprovoked";"USA";"Louisiana";"M";"N";"Sand Tiger Shark";3623
+"1989.06.29";"Summer";"1989";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3624
+"1989.07.07";"Summer";"1989";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3625
+"1989.07.14";"Summer";"1989";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3626
+"1989.08.22.b";"Summer";"1989";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3634
+"1989.09.03";"Fall";"1989";"Provoked";"USA";"California";"M";"N";"Blue Shark";3636
+"1989.09.09.a";"Fall";"1989";"Unprovoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";3637
+"1989.09.09.b";"Fall";"1989";"Unprovoked";"USA";"California";"M";"N";"White Shark";3638
+"1989.09.13";"Fall";"1989";"Provoked";"USA";"Florida";"M";"N";"Unknown";3640
+"1989.10.11";"Fall";"1989";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";3644
+"1989.12.19";"Winter";"1989";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";3654
+"1990.01.12";"Winter";"1990";"Unprovoked";"USA";"California";"M";"N";"White Shark";3656
+"1990.02.05";"Winter";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3657
+"1990.02.17";"Winter";"1990";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3658
+"1990.04.01";"Spring";"1990";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3661
+"1990.07.08";"Summer";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3673
+"1990.07.22";"Summer";"1990";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";3674
+"1990.08.19.a";"Summer";"1990";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";3675
+"1990.08.19.b";"Summer";"1990";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";3676
+"1990.08.28";"Summer";"1990";"Unprovoked";"USA";"California";"M";"N";"White Shark";3677
+"1990.09.05";"Fall";"1990";"Boating";"USA";"California";"M";"N";"White Shark";3679
+"1990.09.08";"Fall";"1990";"Unprovoked";"USA";"California";"M";"N";"White Shark";3680
+"1990.10.12";"Fall";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3682
+"1990.10.15";"Fall";"1990";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3683
+"1990.10.20";"Fall";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";3684
+"1990.10.30.a";"Fall";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3687
+"1990.10.30.b";"Fall";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3688
+"1990.11.01";"Fall";"1990";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3689
+"1990.11.03";"Fall";"1990";"Unprovoked";"USA";"California";"F";"N";"White Shark";3690
+"1991.02.24";"Winter";"1991";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3697
+"1991.04.03";"Spring";"1991";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3699
+"1991.04.16.a";"Spring";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3700
+"1991.05.26";"Spring";"1991";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3704
+"1991.06.07.b";"Summer";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3706
+"1991.06.26";"Summer";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3707
+"1991.07.00";"Summer";"1991";"Unprovoked";"USA";"Virginia";"M";"N";"Not Shark";3710
+"1991.07.01.a";"Summer";"1991";"Unprovoked";"USA";"California";"M";"N";"White Shark";3711
+"1991.07.07";"Summer";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3713
+"1991.07.18";"Summer";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3714
+"1991.07.27";"Summer";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3715
+"1991.08.09";"Summer";"1991";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";3717
+"1991.08.12";"Summer";"1991";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3718
+"1991.08.26";"Summer";"1991";"Unprovoked";"USA";"South Carolina";"M";"N";"Sand Tiger Shark";3719
+"1991.10.05";"Fall";"1991";"Unprovoked";"USA";"California";"M";"N";"White Shark";3723
+"1991.10.12";"Fall";"1991";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3724
+"1991.11.14";"Fall";"1991";"Provoked";"USA";"Florida";"M";"N";"Unknown";3726
+"1991.11.19";"Fall";"1991";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";3727
+"1991.11.26.a";"Fall";"1991";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";3728
+"1991.11.26.b";"Fall";"1991";"Unprovoked";"USA";"Hawaii";"F";"Y";"Tiger Shark";3729
+"1991.12.04";"Winter";"1991";"Unprovoked";"USA";"California";"M";"N";"White Shark";3730
+"1992.02.19";"Winter";"1992";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";3741
+"1992.03.08.a";"Spring";"1992";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";3742
+"1992.03.28";"Spring";"1992";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";3746
+"1992.07.21";"Summer";"1992";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3759
+"1992.08.17";"Summer";"1992";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";3762
+"1992.08.18";"Summer";"1992";"Unprovoked";"USA";"California";"M";"N";"White Shark";3763
+"1992.09.00";"Fall";"1992";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3767
+"1992.09.11";"Fall";"1992";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3769
+"1992.09.13";"Fall";"1992";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3770
+"1992.10.22";"Fall";"1992";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3775
+"1992.10.29";"Fall";"1992";"Unprovoked";"USA";"California";"M";"N";"White Shark";3776
+"1992.11.05.a";"Fall";"1992";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";3777
+"1992.11.05.b";"Fall";"1992";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3778
+"1992.11.11";"Fall";"1992";"Unprovoked";"USA";"California";"M";"N";"Unknown";3779
+"1992.11.14";"Fall";"1992";"Boating";"USA";"California";"M";"N";"White Shark";3781
+"1992.11.23";"Fall";"1992";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3782
+"1992.11.25.a";"Fall";"1992";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";3783
+"1992.11.29";"Fall";"1992";"Unprovoked";"USA";"California";"M";"N";"Shortfin Mako Shark";3784
+"1992.12.23";"Winter";"1992";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3785
+"1992.12.28";"Winter";"1992";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3786
+"1993.01.02";"Winter";"1993";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3791
+"1993.03.12";"Spring";"1993";"Unprovoked";"USA";"California";"M";"N";"White Shark";3799
+"1993.03.14";"Spring";"1993";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3800
+"1993.03.22";"Spring";"1993";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3802
+"1993.06.00";"Summer";"1993";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";3807
+"1993.06.10";"Summer";"1993";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3811
+"1993.07.07";"Summer";"1993";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3816
+"1993.08.12";"Summer";"1993";"Unprovoked";"USA";"California";"M";"N";"White Shark";3820
+"1993.08.15.a";"Summer";"1993";"Unprovoked";"USA";"North Carolina";"F";"N";"Bull Shark";3822
+"1993.08.19";"Summer";"1993";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3824
+"1993.09.09";"Fall";"1993";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3828
+"1993.09.14";"Fall";"1993";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3829
+"1993.10.10";"Fall";"1993";"Boating";"USA";"California";"F";"N";"White Shark";3835
+"1993.10.26";"Fall";"1993";"Unprovoked";"USA";"Florida";"F";"N";"Bull Shark";3836
+"1993.11.12";"Fall";"1993";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3839
+"1993.11.28";"Fall";"1993";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3841
+"1993.12.00";"Winter";"1993";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";3842
+"1994.01.31.a";"Winter";"1994";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";3849
+"1994.02.13";"Winter";"1994";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";3853
+"1994.02.19";"Winter";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3854
+"1994.03.07";"Spring";"1994";"Provoked";"USA";"California";"M";"N";"Lemon Shark";3857
+"1994.04.03";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3861
+"1994.05.15";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3865
+"1994.05.23";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3866
+"1994.05.24";"Spring";"1994";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3867
+"1994.05.28";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3868
+"1994.05.31.a";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";3869
+"1994.05.31.b";"Spring";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3870
+"1994.07.08.a";"Summer";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3872
+"1994.09.05";"Fall";"1994";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";3880
+"1994.09.11.R";"Fall";"1994";"Sea Disaster";"USA";"Florida";"M";"Y";"Unknown";3881
+"1994.09.21";"Fall";"1994";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";3882
+"1994.09.26";"Fall";"1994";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";3883
+"1994.10.05";"Fall";"1994";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3884
+"1994.10.08";"Fall";"1994";"Provoked";"USA";"Florida";"F";"N";"Unknown";3885
+"1994.11.13";"Fall";"1994";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";3889
+"1994.12.09.a";"Winter";"1994";"Unprovoked";"USA";"California";"M";"Y";"White Shark";3892
+"1995.04.13";"Spring";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3912
+"1995.05.26";"Spring";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3917
+"1995.06.14";"Summer";"1995";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";3921
+"1995.06.16";"Summer";"1995";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3922
+"1995.06.17.a";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3923
+"1995.06.17.b";"Summer";"1995";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3924
+"1995.06.23";"Summer";"1995";"Unprovoked";"USA";"Georgia";"M";"N";"Sand Tiger Shark";3925
+"1995.06.24";"Summer";"1995";"Unprovoked";"USA";"California";"F";"N";"White Shark";3926
+"1995.06.30";"Summer";"1995";"Unprovoked";"USA";"California";"M";"N";"White Shark";3927
+"1995.07.00";"Summer";"1995";"Provoked";"USA";"South Carolina";"M";"N";"Unknown";3928
+"1995.07.03";"Summer";"1995";"Provoked";"USA";"Mississippi";"F";"N";"Blacktip Shark";3929
+"1995.07.06";"Summer";"1995";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";3930
+"1995.07.23";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3933
+"1995.07.24";"Summer";"1995";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";3934
+"1995.07.28.a";"Summer";"1995";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3935
+"1995.07.28.b";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3936
+"1995.07.28.c";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3937
+"1995.07.28.d";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3938
+"1995.07.28.e";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3939
+"1995.08.07";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3942
+"1995.08.10.a";"Summer";"1995";"Unprovoked";"USA";"South Carolina";"F";"N";"Blacktip Shark";3943
+"1995.08.10.b";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3944
+"1995.08.15";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3946
+"1995.08.22.a";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3949
+"1995.08.22.c";"Summer";"1995";"Unprovoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";3950
+"1995.08.25";"Summer";"1995";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";3951
+"1995.08.26.a";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3952
+"1995.08.26/b";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3953
+"1995.08.31.a";"Summer";"1995";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";3955
+"1995.08.31.b";"Summer";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3956
+"1995.09.03.b";"Fall";"1995";"Unprovoked";"USA";"California";"M";"N";"White Shark";3958
+"1995.09.13";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"Y";"Bull Shark";3960
+"1995.09.17";"Fall";"1995";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";3962
+"1995.09.19.";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3963
+"1995.09.28";"Fall";"1995";"Unprovoked";"USA";"California";"M";"N";"White Shark";3964
+"1995.09.30.a";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3965
+"1995.09.30.b";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3966
+"1995.10.01";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3967
+"1995.10.21";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3969
+"1995.10.28.R";"Fall";"1995";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3970
+"1996.01.16";"Winter";"1996";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";3981
+"1996.01.23";"Winter";"1996";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";3983
+"1996.02.19.R";"Winter";"1996";"Provoked";"USA";"Missouri";"F";"N";"Nurse Shark";3989
+"1996.05.07";"Spring";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3997
+"1996.05.18";"Spring";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";3999
+"1996.06.25";"Summer";"1996";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4004
+"1996.07.04.b";"Summer";"1996";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4006
+"1996.07.10";"Summer";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4007
+"1996.07.20";"Summer";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4009
+"1996.07.21";"Summer";"1996";"Unprovoked";"USA";"Massachusetts";"M";"N";"Unknown";4010
+"1996.07.26";"Summer";"1996";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4013
+"1996.08.11";"Summer";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";4014
+"1996.08.13";"Summer";"1996";"Unprovoked";"USA";"California";"M";"N";"White Shark";4015
+"1996.08.29";"Summer";"1996";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4016
+"1996.09.02.a";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4019
+"1996.09.02.b";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4020
+"1996.09.06.a";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4021
+"1996.09.18";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4023
+"1996.10.03.a";"Fall";"1996";"Unprovoked";"USA";"California";"M";"N";"White Shark";4025
+"1996.10.03.b";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4026
+"1996.10.05.";"Fall";"1996";"Unprovoked";"USA";"California";"M";"N";"White Shark";4027
+"1996.11.18";"Fall";"1996";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4031
+"1996.11.29.a";"Fall";"1996";"Unprovoked";"USA";"California";"M";"N";"White Shark";4032
+"1997.05.31.a";"Spring";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4049
+"1997.05.31.b";"Spring";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4050
+"1997.05.31.c";"Spring";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4051
+"1997.06.02";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4052
+"1997.06.09";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4054
+"1997.06.24";"Summer";"1997";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4056
+"1997.07.14";"Summer";"1997";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";4059
+"1997.08.02.a";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4063
+"1997.08.02.b";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4064
+"1997.08.04";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4065
+"1997.08.05";"Summer";"1997";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";4066
+"1997.08.09";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4067
+"1997.08.10";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4068
+"1997.08.11.c";"Summer";"1997";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4071
+"1997.08.24";"Summer";"1997";"Unprovoked";"USA";"California";"M";"N";"White Shark";4074
+"1997.08.27";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4075
+"1997.08.30";"Summer";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4076
+"1997.09.06";"Fall";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4077
+"1997.09.09";"Fall";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4079
+"1997.10.04";"Fall";"1997";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4081
+"1997.10.21";"Fall";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4083
+"1997.10.24";"Fall";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";4084
+"1997.10.28.a";"Fall";"1997";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4085
+"1997.11.05.R";"Fall";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4088
+"1997.12.25.a";"Winter";"1997";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4090
+"1998.02.23";"Winter";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4103
+"1998.03.08.a";"Spring";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4104
+"1998.03.31";"Spring";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4106
+"1998.04.17";"Spring";"1998";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";4109
+"1998.04.21";"Spring";"1998";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4110
+"1998.05.16.b";"Spring";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4113
+"1998.05.16.c";"Spring";"1998";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4114
+"1998.05.25";"Spring";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Lemon Shark";4115
+"1998.06.08";"Summer";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4120
+"1998.07.25";"Summer";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4126
+"1998.08.13";"Summer";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4131
+"1998.08.23.R";"Summer";"1998";"Unprovoked";"USA";"Virginia";"M";"N";"Dusky Shark";4133
+"1998.08.26";"Summer";"1998";"Unprovoked";"USA";"California";"M";"N";"White Shark";4134
+"1998.08.30";"Summer";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4136
+"1998.09.14";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4138
+"1998.09.22";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4140
+"1998.09.27";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4141
+"1998.10.01.a";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4142
+"1998.10.10";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4145
+"1998.10.24";"Fall";"1998";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4147
+"1998.11.05";"Fall";"1998";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4150
+"1998.11.11";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4151
+"1998.11.14";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4152
+"1998.11.21";"Fall";"1998";"Unprovoked";"USA";"Florida";"M";"Y";"Tiger Shark";4153
+"1998.12.24";"Winter";"1998";"Provoked";"USA";"Florida";"M";"N";"Unknown";4158
+"1999.02.03";"Winter";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4166
+"1999.03.05";"Spring";"1999";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4169
+"1999.03.08";"Spring";"1999";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4170
+"1999.03.18.a";"Spring";"1999";"Unprovoked";"USA";"Hawaii";"F";"Y";"Unknown";4173
+"1999.04.01";"Spring";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4176
+"1999.06.09";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4181
+"1999.06.12";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4182
+"1999.06.17";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4183
+"1999.06.19";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4184
+"1999.07.04";"Summer";"1999";"Unprovoked";"USA";"Florida";"F";"N";"Blacktip Shark";4186
+"1999.07.06";"Summer";"1999";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4187
+"1999.07.21";"Summer";"1999";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4189
+"1999.07.26";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";4190
+"1999.08.05.a";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4193
+"1999.08.16";"Summer";"1999";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4194
+"1999.08.21";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4195
+"1999.08.24";"Summer";"1999";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4197
+"1999.08.26";"Summer";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4198
+"1999.09.04.a";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4199
+"1999.09.04.b";"Fall";"1999";"Provoked";"USA";"Florida";"M";"N";"Unknown";4200
+"1999.09.05";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4201
+"1999.09.10";"Fall";"1999";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4202
+"1999.09.16";"Fall";"1999";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4203
+"1999.09.18";"Fall";"1999";"Unprovoked";"USA";"California";"M";"N";"White Shark";4204
+"1999.09.29";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4206
+"1999.10.01";"Fall";"1999";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4207
+"1999.10.20";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Lemon Shark";4208
+"1999.10.30.a";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4209
+"1999.10.30.b";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4210
+"1999.11.15";"Fall";"1999";"Unprovoked";"USA";"California";"M";"N";"White Shark";4215
+"1999.11.23";"Fall";"1999";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";4216
+"1999.11.30";"Fall";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4217
+"1999.12.02";"Winter";"1999";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4218
+"2000.02.21";"Winter";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4232
+"2000.03.00";"Spring";"2000";"Unprovoked";"USA";"Louisiana";"M";"N";"Shortfin Mako Shark";4233
+"2000.03.24";"Spring";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4240
+"2000.03.26";"Spring";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4241
+"2000.03.31";"Spring";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4243
+"2000.04.09";"Spring";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4244
+"2000.04.14";"Spring";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4245
+"2000.06.02";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4251
+"2000.06.09.a";"Summer";"2000";"Unprovoked";"USA";"Alabama";"M";"N";"Bull Shark";4252
+"2000.06.09.b";"Summer";"2000";"Unprovoked";"USA";"Alabama";"M";"N";"Bull Shark";4253
+"2000.06.10";"Summer";"2000";"Unprovoked";"USA";"Texas";"M";"N";"Blacktip Shark";4254
+"2000.06.19";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4256
+"2000.07.02.a";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4260
+"2000.07.02.b";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4261
+"2000.07.04.a";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Nurse Shark";4262
+"2000.07.04.b";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4263
+"2000.07.06";"Summer";"2000";"Unprovoked";"USA";"North Carolina";"F";"N";"Tiger Shark";4264
+"2000.07.07";"Summer";"2000";"Unprovoked";"USA";"Texas";"M";"N";"Lemon Shark";4265
+"2000.07.09";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4266
+"2000.07.10";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4267
+"2000.07.16.b";"Summer";"2000";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4272
+"2000.07.17";"Summer";"2000";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4273
+"2000.07.22";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Nurse Shark";4274
+"2000.07.25";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4275
+"2000.08.12";"Summer";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Blacktip Shark";4279
+"2000.08.13";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4280
+"2000.08.15";"Summer";"2000";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4281
+"2000.08.21";"Summer";"2000";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4282
+"2000.08.27.R";"Summer";"2000";"Provoked";"USA";"Alaska";"M";"N";"Salmon shark";4283
+"2000.08.30";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";4284
+"2000.08.31";"Summer";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4285
+"2000.09.08.b";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4288
+"2000.09.10.b";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4291
+"2000.09.11";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4292
+"2000.09.12";"Fall";"2000";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4293
+"2000.09.15";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4294
+"2000.09.29";"Fall";"2000";"Unprovoked";"USA";"California";"M";"N";"White Shark";4300
+"2000.10.02";"Fall";"2000";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4301
+"2000.10.06.a";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4302
+"2000.10.06.b";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";4303
+"2000.10.09";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4304
+"2000.10.14";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4305
+"2000.10.18";"Fall";"2000";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";4306
+"2000.10.20";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4307
+"2000.11.04";"Fall";"2000";"Unprovoked";"USA";"California";"M";"N";"White Shark";4309
+"2000.11.18";"Fall";"2000";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4313
+"2001.01.09";"Winter";"2001";"Unprovoked";"USA";"California";"M";"N";"Unknown";4323
+"2001.03.09";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4333
+"2001.03.23";"Spring";"2001";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4334
+"2001.04.05";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4337
+"2001.04.11.a";"Spring";"2001";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4341
+"2001.04.11.c";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4342
+"2001.04.11.d";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4343
+"2001.04.12.a";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4344
+"2001.04.12.b";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4345
+"2001.04.12.c";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4346
+"2001.04.12.d";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4347
+"2001.04.12.e";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4348
+"2001.04.13.a";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4349
+"2001.04.13.b";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4350
+"2001.04.28";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4351
+"2001.05.03";"Spring";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4353
+"2001.05.20";"Spring";"2001";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4358
+"2001.05.23 ";"Spring";"2001";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4359
+"2001.05.29";"Spring";"2001";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4360
+"2001.06.03";"Summer";"2001";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4361
+"2001.06.10";"Summer";"2001";"Provoked";"USA";"California";"M";"N";"White Shark";4363
+"2001.06.12";"Summer";"2001";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4364
+"2001.07.00";"Summer";"2001";"Unprovoked";"USA";"Georgia";"M";"N";"Unknown";4365
+"2001.07.06.a";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";4367
+"2001.07.15.a";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4369
+"2001.07.15.b";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4370
+"2001.07.24";"Summer";"2001";"Unprovoked";"USA";"Florida";"F";"N";"Nurse Shark";4372
+"2001.07.25";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4373
+"2001.07.26";"Summer";"2001";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4374
+"2001.08.05";"Summer";"2001";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4377
+"2001.08.18.a";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";4380
+"2001.08.18.b";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4381
+"2001.08.18.c";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4382
+"2001.08.19.a";"Summer";"2001";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4383
+"2001.08.19.b";"Summer";"2001";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4384
+"2001.08.19.c";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4385
+"2001.08.21";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4386
+"2001.08.22";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4387
+"2001.08.25";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4388
+"2001.08.26";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4389
+"2001.08.27";"Summer";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4390
+"2001.08.29";"Summer";"2001";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4391
+"2001.09.01";"Fall";"2001";"Unprovoked";"USA";"Virginia";"M";"Y";"Bull Shark";4393
+"2001.09.02";"Fall";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4394
+"2001.09.03.a";"Fall";"2001";"Unprovoked";"USA";"North Carolina";"F";"N";"White Shark";4395
+"2001.09.03.b";"Fall";"2001";"Unprovoked";"USA";"North Carolina";"M";"Y";"White Shark";4396
+"2001.09.07.a";"Fall";"2001";"Invalid";"USA";"South Carolina";"F";"N";"Not Shark";4397
+"2001.09.07.b";"Fall";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4398
+"2001.09.08";"Fall";"2001";"Provoked";"USA";"Florida";"M";"N";"Unknown";4399
+"2001.09.15.a";"Fall";"2001";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4401
+"2001.09.15.b";"Fall";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4402
+"2001.09.16";"Fall";"2001";"Invalid";"USA";"Florida";"M";"Y";"Not Shark";4403
+"2001.09.18";"Fall";"2001";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4404
+"2001.09.24";"Fall";"2001";"Provoked";"USA";"Florida";"M";"N";"Unknown";4405
+"2002.01.01.a";"Winter";"2002";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4414
+"2002.03.15.a";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4425
+"2002.03.15.b";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";4426
+"2002.03.19";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4427
+"2002.03.25.a";"Spring";"2002";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4429
+"2002.03.25.b";"Spring";"2002";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4430
+"2002.04.01";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4431
+"2002.04.02";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4432
+"2002.04.18";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4435
+"2002.04.20";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4436
+"2002.05.13";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4441
+"2002.05.22.a";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4444
+"2002.05.22.b";"Spring";"2002";"Provoked";"USA";"Florida";"M";"N";"Blacktip Shark";4445
+"2002.05.31.a";"Spring";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4446
+"2002.05.31.b";"Spring";"2002";"Unprovoked";"USA";"California";"M";"N";"White Shark";4447
+"2002.06.09.a";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4449
+"2002.06.09.b";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4450
+"2002.06.11.a";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4451
+"2002.06.20.a";"Summer";"2002";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4456
+"2002.07.04";"Summer";"2002";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";4458
+"2002.07.09.b";"Summer";"2002";"Provoked";"USA";"Maryland";"M";"Y";"Shortfin Mako Shark";4460
+"2002.07.10";"Summer";"2002";"Provoked";"USA";"Florida";"M";"N";"Unknown";4461
+"2002.07.20";"Summer";"2002";"Unprovoked";"USA";"North Carolina";"F";"N";"Bull Shark";4462
+"2002.07.26";"Summer";"2002";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4463
+"2002.08.05";"Summer";"2002";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4464
+"2002.08.07";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4466
+"2002.08.11";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";4467
+"2002.08.14";"Summer";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4468
+"2002.08.17";"Summer";"2002";"Unprovoked";"USA";"Alabama";"F";"N";"Unknown";4469
+"2002.08.28";"Summer";"2002";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4470
+"2002.09.05";"Fall";"2002";"Provoked";"USA";"Florida";"M";"N";"Hammerhead Shark";4471
+"2002.09.09";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4472
+"2002.09.21.a";"Fall";"2002";"Unprovoked";"USA";"California";"M";"N";"Unknown";4476
+"2002.09.21.b";"Fall";"2002";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";4477
+"2002.09.27.b";"Fall";"2002";"Provoked";"USA";"Florida";"M";"N";"Blacktip Shark";4479
+"2002.09.27.c";"Fall";"2002";"Unprovoked";"USA";"Hawaii";"M";"N";"Blacktip Shark";4480
+"2002.09.29";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4481
+"2002.09.30";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4482
+"2002.10.03";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4483
+"2002.10.05.a";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4484
+"2002.10.05.b";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4485
+"2002.10.11";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4486
+"2002.10.30";"Fall";"2002";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4488
+"2002.11.02";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4490
+"2002.11.11";"Fall";"2002";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4491
+"2002.11.17";"Fall";"2002";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4493
+"2002.11.28.a";"Fall";"2002";"Unprovoked";"USA";"California";"M";"N";"White Shark";4494
+"2003.02.15.a";"Winter";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4507
+"2003.03.10";"Spring";"2003";"Provoked";"USA";"Florida";"F";"N";"Unknown";4510
+"2003.04.04";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4511
+"2003.04.09";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4512
+"2003.04.15";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4514
+"2003.04.18";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4515
+"2003.04.19";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4516
+"2003.04.20.a";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4517
+"2003.04.20.b";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4518
+"2003.04.20.c";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4519
+"2003.04.21.a";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4520
+"2003.04.21.b";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4521
+"2003.05.03";"Spring";"2003";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4527
+"2003.05.07";"Spring";"2003";"Provoked";"USA";"Florida";"M";"N";"Unknown";4528
+"2003.05.10";"Spring";"2003";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4529
+"2003.05.14";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4530
+"2003.05.25";"Spring";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4531
+"2003.06.19";"Summer";"2003";"Unprovoked";"USA";"North Carolina";"M";"N";"Nurse Shark";4534
+"2003.06.22";"Summer";"2003";"Unprovoked";"USA";"Johnston Atoll";"M";"N";"Unknown";4535
+"2003.06.24.a";"Summer";"2003";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4536
+"2003.06.24.b";"Summer";"2003";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4537
+"2003.06.26";"Summer";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4539
+"2003.06.30";"Summer";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4540
+"2003.07.00.c";"Summer";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Hammerhead Shark";4543
+"2003.07.05.a";"Summer";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4545
+"2003.07.05.b";"Summer";"2003";"Provoked";"USA";"Florida";"M";"N";"Unknown";4546
+"2003.07.15";"Summer";"2003";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4548
+"2003.07.20";"Summer";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4549
+"2003.08.19";"Summer";"2003";"Unprovoked";"USA";"California";"F";"Y";"White Shark";4553
+"2003.08.29";"Summer";"2003";"Provoked";"USA";"Texas";"M";"N";"Bull Shark";4554
+"2003.09.00";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4555
+"2003.09.13.a";"Fall";"2003";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4557
+"2003.09.13.b";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4558
+"2003.09.14.c";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4561
+"2003.09.17";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4562
+"2003.09.19";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4563
+"2003.09.21";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4564
+"2003.09.28";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4565
+"2003.10.05.a";"Fall";"2003";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4567
+"2003.10.05.b";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4568
+"2003.10.05.c";"Fall";"2003";"Provoked";"USA";"Florida";"M";"N";"Unknown";4569
+"2003.10.05.d";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4570
+"2003.10.05.e";"Fall";"2003";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4571
+"2003.10.06";"Fall";"2003";"Invalid";"USA";"Florida";"M";"Y";"Not Shark";4572
+"2003.10.14";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4573
+"2003.10.27";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4575
+"2003.10.31.a";"Fall";"2003";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";4576
+"2003.10.31.c";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4578
+"2003.11.12.a";"Fall";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4583
+"2003.11.22";"Fall";"2003";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4585
+"2003.12.13.b";"Winter";"2003";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4591
+"2004.03.16";"Spring";"2004";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4612
+"2004.03.24";"Spring";"2004";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4614
+"2004.03.27.a";"Spring";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4615
+"2004.03.28";"Spring";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";4617
+"2004.03.31.a";"Spring";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";4619
+"2004.03.31.b";"Spring";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4620
+"2004.04.07";"Spring";"2004";"Unprovoked";"USA";"Hawaii";"M";"Y";"Tiger Shark";4623
+"2004.05.04";"Spring";"2004";"Unprovoked";"USA";"Texas";"M";"N";"Shortfin Mako Shark";4629
+"2004.05.22.b";"Spring";"2004";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4632
+"2004.05.23.a";"Spring";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4634
+"2004.05.28";"Spring";"2004";"Unprovoked";"USA";"California";"M";"N";"Unknown";4635
+"2004.05.29";"Spring";"2004";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4637
+"2004.06.10.a";"Summer";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4639
+"2004.06.14";"Summer";"2004";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4641
+"2004.06.26.b";"Summer";"2004";"Unprovoked";"USA";"California";"M";"N";"White Shark";4643
+"2004.07.02.a";"Summer";"2004";"Unprovoked";"USA";"Alabama";"M";"N";"Unknown";4644
+"2004.07.25";"Summer";"2004";"Unprovoked";"USA";"Texas";"M";"N";"Bull Shark";4649
+"2004.07.27.a";"Summer";"2004";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";4650
+"2004.07.27.b";"Summer";"2004";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";4651
+"2004.07.28";"Summer";"2004";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";4652
+"2004.07.31";"Summer";"2004";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4654
+"2004.08.06";"Summer";"2004";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4657
+"2004.08.15";"Summer";"2004";"Unprovoked";"USA";"California";"M";"Y";"White Shark";4658
+"2004.08.20";"Summer";"2004";"Unprovoked";"USA";"California";"M";"N";"White Shark";4659
+"2004.08.29";"Summer";"2004";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4661
+"2004.09.04";"Fall";"2004";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4662
+"2004.09.20";"Fall";"2004";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4665
+"2004.10.01";"Fall";"2004";"Unprovoked";"USA";"California";"M";"N";"Unknown";4667
+"2004.10.02";"Fall";"2004";"Unprovoked";"USA";"California";"M";"N";"Unknown";4668
+"2004.10.09.b";"Fall";"2004";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4671
+"2004.10.10";"Fall";"2004";"Unprovoked";"USA";"California";"M";"N";"White Shark";4672
+"2004.11.11.b";"Fall";"2004";"Unprovoked";"USA";"California";"M";"N";"White Shark";4679
+"2005.02.13";"Winter";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Caribbean Reef Shark";4691
+"2005.02.16";"Winter";"2005";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4692
+"2005.02.22";"Winter";"2005";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";4693
+"2005.03.12";"Spring";"2005";"Provoked";"USA";"New Mexico";"M";"N";"Sand Tiger Shark";4698
+"2005.04.06";"Spring";"2005";"Unprovoked";"USA";"Florida";"F";"N";"Hammerhead Shark";4704
+"2005.04.07";"Spring";"2005";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4705
+"2005.04.13";"Spring";"2005";"Unprovoked";"USA";"Florida";"F";"N";"Blacktip Shark";4707
+"2005.05.02";"Spring";"2005";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4712
+"2005.05.02.R";"Spring";"2005";"Sea Disaster";"USA";"South Carolina";"M";"N";"Unknown";4713
+"2005.05.27";"Spring";"2005";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4718
+"2005.05.28";"Spring";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4719
+"2005.06.02";"Summer";"2005";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4720
+"2005.06.07";"Summer";"2005";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4723
+"2005.06.16";"Summer";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4725
+"2005.06.25";"Summer";"2005";"Unprovoked";"USA";"Florida";"F";"Y";"Bull Shark";4729
+"2005.06.27";"Summer";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";4730
+"2005.07.01";"Summer";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4731
+"2005.07.13";"Summer";"2005";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";4732
+"2005.07.15";"Summer";"2005";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4733
+"2005.07.23";"Summer";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4738
+"2005.07.27";"Summer";"2005";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4739
+"2005.08.06";"Summer";"2005";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4741
+"2005.08.12";"Summer";"2005";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4742
+"2005.08.19";"Summer";"2005";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4744
+"2005.08.21";"Summer";"2005";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";4745
+"2005.08.24.a";"Summer";"2005";"Unprovoked";"USA";"California";"M";"N";"White Shark";4747
+"2005.09.02.b";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4750
+"2005.09.05";"Fall";"2005";"Unprovoked";"USA";"North Carolina";"F";"N";"Bull Shark";4752
+"2005.09.11";"Fall";"2005";"Unprovoked";"USA";"South Carolina";"M";"Y";"Unknown";4754
+"2005.09.20";"Fall";"2005";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4755
+"2005.10.06";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4762
+"2005.10.13";"Fall";"2005";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4764
+"2005.10.15";"Fall";"2005";"Provoked";"USA";"Florida";"M";"N";"Unknown";4765
+"2005.10.19";"Fall";"2005";"Unprovoked";"USA";"California";"F";"N";"White Shark";4766
+"2005.10.21";"Fall";"2005";"Unprovoked";"USA";"California";"M";"N";"White Shark";4767
+"2005.10.29";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4770
+"2005.11.02.a";"Fall";"2005";"Unprovoked";"USA";"California";"M";"N";"White Shark";4771
+"2005.11.02.b";"Fall";"2005";"Unprovoked";"USA";"California";"M";"N";"Unknown";4772
+"2005.11.12";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4773
+"2005.11.20";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4776
+"2005.11.21";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4777
+"2005.11.27";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4782
+"2005.11.29.R";"Fall";"2005";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4783
+"2005.12.21";"Winter";"2005";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4787
+"2005.12.24";"Winter";"2005";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4788
+"2006.01.04";"Winter";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4790
+"2006.01.18";"Winter";"2006";"Unprovoked";"USA";"California";"M";"N";"Unknown";4794
+"2006.02.01.a";"Winter";"2006";"Boating";"USA";"Hawaii";"M";"N";"Unknown";4798
+"2006.02.27";"Winter";"2006";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";4805
+"2006.03.23";"Spring";"2006";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";4809
+"2006.04.03";"Spring";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4811
+"2006.04.13";"Spring";"2006";"Provoked";"USA";"Florida";"M";"N";"Bull Shark";4815
+"2006.04.19";"Spring";"2006";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4816
+"2006.04.21";"Spring";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4817
+"2006.05.04";"Spring";"2006";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4820
+"2006.05.10";"Spring";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4821
+"2006.05.19";"Spring";"2006";"Unprovoked";"USA";"Guam";"F";"N";"Tiger Shark";4822
+"2006.05.24";"Spring";"2006";"Provoked";"USA";"Hawaii";"M";"N";"Grey Reef Shark";4824
+"2006.05.27";"Spring";"2006";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4825
+"2006.05.31";"Spring";"2006";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4827
+"2006.06.07";"Summer";"2006";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4829
+"2006.06.15";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4830
+"2006.06.17";"Summer";"2006";"Unprovoked";"USA";"California";"M";"N";"Unknown";4831
+"2006.06.20";"Summer";"2006";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4833
+"2006.06.26";"Summer";"2006";"Provoked";"USA";"Florida";"M";"N";"Unknown";4835
+"2006.06.27";"Summer";"2006";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4836
+"2006.06.30.a";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Reef Shark";4837
+"2006.06.30.b";"Summer";"2006";"Unprovoked";"USA";"Florida";"F";"N";"Blacktip Reef Shark";4838
+"2006.07.08.a";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4839
+"2006.07.08.b";"Summer";"2006";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4840
+"2006.07.09.a";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4841
+"2006.07.09.b";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4842
+"2006.07.12";"Summer";"2006";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4844
+"2006.07.17";"Summer";"2006";"Unprovoked";"USA";"South Carolina";"M";"N";"Angel Shark";4846
+"2006.07.23";"Summer";"2006";"Unprovoked";"USA";"Texas";"M";"N";"Bull Shark";4848
+"2006.07.25";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4849
+"2006.07.29.a";"Summer";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4851
+"2006.07.29.b";"Summer";"2006";"Invalid";"USA";"California";"M";"N";"Unknown";4852
+"2006.07.31.a";"Summer";"2006";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4853
+"2006.08.00.b";"Summer";"2006";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";4856
+"2006.08.29.b";"Summer";"2006";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";4865
+"2006.09.02";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4867
+"2006.09.03.a";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4868
+"2006.09.11";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4871
+"2006.09.14";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";4872
+"2006.09.16";"Fall";"2006";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4873
+"2006.09.18.R";"Fall";"2006";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";4874
+"2006.09.29";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4875
+"2006.10.05";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4879
+"2006.10.07";"Fall";"2006";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";4880
+"2006.10.10";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4881
+"2006.10.16";"Fall";"2006";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4882
+"2006.10.31";"Fall";"2006";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";4883
+"2006.11.11";"Fall";"2006";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4885
+"2006.12.10";"Winter";"2006";"Unprovoked";"USA";"California";"M";"N";"White Shark";4889
+"2007.01.05";"Winter";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4892
+"2007.03.11";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4904
+"2007.03.14.R";"Spring";"2007";"Provoked";"USA";"Florida";"M";"N";"Unknown";4906
+"2007.03.21";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4908
+"2007.03.31.a";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4910
+"2007.03.31.b";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4911
+"2007.04.01";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4912
+"2007.04.20";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4915
+"2007.04.22";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4916
+"2007.05.07.a";"Spring";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4920
+"2007.05.07.b";"Spring";"2007";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";4921
+"2007.05.10";"Spring";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4924
+"2007.05.24";"Spring";"2007";"Provoked";"USA";"Virginia";"F";"N";"Blacktip Reef Shark";4928
+"2007.05.26";"Spring";"2007";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";4929
+"2007.06.12";"Summer";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4931
+"2007.06.24";"Summer";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4933
+"2007.06.25";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4934
+"2007.06.30.a";"Summer";"2007";"Unprovoked";"USA";"California";"F";"N";"Unknown";4935
+"2007.06.30.b";"Summer";"2007";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";4936
+"2007.07.05";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4939
+"2007.07.17.a";"Summer";"2007";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";4941
+"2007.07.18.b";"Summer";"2007";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";4944
+"2007.07.19.b";"Summer";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";4946
+"2007.07.21";"Summer";"2007";"Boating";"USA";"California";"M";"N";"White Shark";4947
+"2007.07.22";"Summer";"2007";"Unprovoked";"USA";"California";"M";"N";"White Shark";4948
+"2007.07.28";"Summer";"2007";"Unprovoked";"USA";"California";"M";"N";"Unknown";4949
+"2007.07.29";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4950
+"2007.08.07";"Summer";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4951
+"2007.08.09.a";"Summer";"2007";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4952
+"2007.08.09.b";"Summer";"2007";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4953
+"2007.08.11";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4954
+"2007.08.12";"Summer";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4955
+"2007.08.15";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4956
+"2007.08.19.a.";"Summer";"2007";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4957
+"2007.08.19.b";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4958
+"2007.08.19.c";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4959
+"2007.08.20";"Summer";"2007";"Provoked";"USA";"Delaware";"M";"N";"Sand Tiger Shark";4960
+"2007.08.22";"Summer";"2007";"Provoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";4961
+"2007.08.25";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4962
+"2007.08.26";"Summer";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4963
+"2007.08.28.a";"Summer";"2007";"Unprovoked";"USA";"California";"M";"N";"White Shark";4964
+"2007.08.28.b";"Summer";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4965
+"2007.09.03.a";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4966
+"2007.09.03.b";"Fall";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4967
+"2007.09.04";"Fall";"2007";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";4968
+"2007.09.05";"Fall";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4969
+"2007.09.08";"Fall";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4970
+"2007.09.13";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";4971
+"2007.09.16.a";"Fall";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4972
+"2007.09.16.b";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4973
+"2007.09.20";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4975
+"2007.09.22.a";"Fall";"2007";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";4976
+"2007.09.27.b";"Fall";"2007";"Unprovoked";"USA";"California";"F";"N";"White Shark";4979
+"2007.09.30.c";"Fall";"2007";"Unprovoked";"USA";"California";"M";"N";"Unknown";4983
+"2007.10.06";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";4984
+"2007.10.07";"Fall";"2007";"Unprovoked";"USA";"California";"M";"N";"Unknown";4985
+"2007.10.29";"Fall";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4988
+"2007.11.04";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4991
+"2007.11.06";"Fall";"2007";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";4992
+"2007.12.10";"Winter";"2007";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";4998
+"2008.00.00.b";"Fall";"2008";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";5005
+"2008.01.10";"Winter";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5006
+"2008.02.06";"Winter";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5012
+"2008.02.15";"Winter";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5014
+"2008.03.07";"Spring";"2008";"Unprovoked";"USA";"California";"M";"N";"White Shark";5017
+"2008.03.15";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Not Shark";5018
+"2008.03.21";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5019
+"2008.03.23";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5020
+"2008.03.25";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5027
+"2008.03.28.a";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5021
+"2008.03.28.b";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5022
+"2008.04.03";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5024
+"2008.04.15";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5029
+"2008.04.20.b";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5034
+"2008.04.25";"Spring";"2008";"Unprovoked";"USA";"California";"M";"Y";"White Shark";5035
+"2008.04.26.a";"Spring";"2008";"Provoked";"USA";"Florida";"M";"N";"Unknown";5036
+"2008.04.27";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5038
+"2008.04.28.a";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5039
+"2008.05.07.a";"Spring";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5042
+"2008.05.26";"Spring";"2008";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5049
+"2008.06.01.b";"Summer";"2008";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5051
+"2008.06.07";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5053
+"2008.06.20";"Summer";"2008";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5055
+"2008.06.21";"Summer";"2008";"Boating";"USA";"California";"F";"N";"White Shark";5056
+"2008.06.26.a";"Summer";"2008";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5058
+"2008.06.26.b";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5059
+"2008.07.05";"Summer";"2008";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5065
+"2008.07.09";"Summer";"2008";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5066
+"2008.07.11";"Summer";"2008";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5067
+"2008.07.19";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5070
+"2008.07.23";"Summer";"2008";"Provoked";"USA";"Florida";"M";"N";"Unknown";5071
+"2008.07.24.a";"Summer";"2008";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5072
+"2008.07.24.b";"Summer";"2008";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5073
+"2008.07.25.a";"Summer";"2008";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5074
+"2008.07.25.b";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5075
+"2008.07.26.a";"Summer";"2008";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5076
+"2008.08.11";"Summer";"2008";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5081
+"2008.08.12";"Summer";"2008";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5082
+"2008.08.16";"Summer";"2008";"Unprovoked";"USA";"US Virgin Islands";"F";"N";"Unknown";5083
+"2008.08.20";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5085
+"2008.08.24";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5087
+"2008.08.27";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5088
+"2008.08.28";"Summer";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5089
+"2008.09.00";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5093
+"2008.09.01";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5094
+"2008.09.06.a";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5095
+"2008.09.06.b";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5096
+"2008.09.08";"Fall";"2008";"Unprovoked";"USA";"California";"M";"N";"White Shark";5098
+"2008.09.09";"Fall";"2008";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5099
+"2008.09.14";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5100
+"2008.09.28.a";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5102
+"2008.09.28.b";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5103
+"2008.10.08";"Fall";"2008";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5105
+"2008.12.20";"Winter";"2008";"Boating";"USA";"California";"M";"N";"White Shark";5120
+"2009.02.08";"Winter";"2009";"Sea Disaster";"USA";"Puerto Rico";"M";"Y";"Unknown";5145
+"2009.03.17";"Spring";"2009";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5155
+"2009.03.18.a";"Spring";"2009";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5157
+"2009.04.03";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5163
+"2009.04.06.a";"Spring";"2009";"Unprovoked";"USA";"California";"M";"N";"White Shark";5164
+"2009.04.17.";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5168
+"2009.04.19";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5169
+"2009.04.21";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5171
+"2009.04.25.R";"Spring";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5172
+"2009.04.28";"Spring";"2009";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5173
+"2009.05.16.a";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5176
+"2009.05.16.b";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5177
+"2009.05.17";"Spring";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5178
+"2009.05.25";"Spring";"2009";"Provoked";"USA";"Florida";"M";"N";"Unknown";5179
+"2009.07.04";"Summer";"2009";"Provoked";"USA";"Florida";"F";"N";"Nurse Shark";5188
+"2009.07.05";"Summer";"2009";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5189
+"2009.07.11.a";"Summer";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5191
+"2009.07.22.a";"Summer";"2009";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5194
+"2009.07.22.b";"Summer";"2009";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5195
+"2009.07.24.b";"Summer";"2009";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";5197
+"2009.08.01";"Summer";"2009";"Unprovoked";"USA";"Louisiana";"M";"N";"Bull Shark";5202
+"2009.08.06";"Summer";"2009";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5203
+"2009.08.10";"Summer";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5204
+"2009.08.25";"Summer";"2009";"Unprovoked";"USA";"California";"F";"N";"White Shark";5206
+"2009.08.30";"Summer";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5208
+"2009.09.12";"Fall";"2009";"Invalid";"USA";"North Carolina";"M";"Y";"Not Shark";5212
+"2009.09.26";"Fall";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5216
+"2009.10.09";"Fall";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5218
+"2009.10.19";"Fall";"2009";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5222
+"2009.10.24";"Fall";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5223
+"2009.11.05";"Fall";"2009";"Unprovoked";"USA";"California";"M";"N";"Unknown";5227
+"2009.11.11";"Fall";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5229
+"2009.11.13";"Fall";"2009";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5230
+"2009.11.16.a";"Fall";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5231
+"2009.11.16.b";"Fall";"2009";"Unprovoked";"USA";"California";"M";"N";"Thresher Shark";5232
+"2009.11.24";"Fall";"2009";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5233
+"2009.12.06";"Winter";"2009";"Provoked";"USA";"New Jersey";"M";"N";"Sand Tiger Shark";5235
+"2010.01.06";"Winter";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5247
+"2010.02.03";"Winter";"2010";"Unprovoked";"USA";"Florida";"M";"Y";"Unknown";5258
+"2010.02.06.a";"Winter";"2010";"Provoked";"USA";"Florida";"M";"N";"Spinner Shark";5260
+"2010.04.19";"Spring";"2010";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5271
+"2010.04.28";"Spring";"2010";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";5272
+"2010.05.01";"Spring";"2010";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5273
+"2010.05.30";"Spring";"2010";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";5278
+"2010.06.00";"Summer";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5279
+"2010.06.10";"Summer";"2010";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5281
+"2010.06.25.a";"Summer";"2010";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5283
+"2010.06.25.b";"Summer";"2010";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5284
+"2010.06.27";"Summer";"2010";"Unprovoked";"USA";"Texas";"M";"N";"Bull Shark";5285
+"2010.07.02.a";"Summer";"2010";"Unprovoked";"USA";"California";"M";"N";"Unknown";5286
+"2010.07.02.b";"Summer";"2010";"Unprovoked";"USA";"California";"M";"N";"Unknown";5287
+"2010.07.03";"Summer";"2010";"Provoked";"USA";"New York";"M";"N";"Blue Shark";5288
+"2010.07.11";"Summer";"2010";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";5290
+"2010.07.16.a";"Summer";"2010";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5291
+"2010.07.17.a";"Summer";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";5293
+"2010.07.17.b";"Summer";"2010";"Unprovoked";"USA";"North Carolina";"F";"N";"Sand Tiger Shark";5294
+"2010.07.19";"Summer";"2010";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";5295
+"2010.07.23";"Summer";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5296
+"2010.07.25";"Summer";"2010";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5297
+"2010.08.02.a";"Summer";"2010";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5298
+"2010.08.02.b";"Summer";"2010";"Boating";"USA";"California";"M";"N";"White Shark";5299
+"2010.08.07.b";"Summer";"2010";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5302
+"2010.08.14";"Summer";"2010";"Boating";"USA";"California";"M";"N";"White Shark";5306
+"2010.08.18";"Summer";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5308
+"2010.09.03.a";"Fall";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5311
+"2010.09.03.b";"Fall";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5312
+"2010.09.04";"Fall";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5313
+"2010.09.07";"Fall";"2010";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5315
+"2010.09.24";"Fall";"2010";"Unprovoked";"USA";"Virginia";"M";"N";"Unknown";5318
+"2010.09.27";"Fall";"2010";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";5319
+"2010.10.22";"Fall";"2010";"Unprovoked";"USA";"California";"M";"Y";"White Shark";5325
+"2010.10.23.b";"Fall";"2010";"Unprovoked";"USA";"Maine";"M";"N";"Porbeagle Shark";5327
+"2010.10.28";"Fall";"2010";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";5329
+"2010.11.19";"Fall";"2010";"Provoked";"USA";"Palmyra Atoll";"M";"N";"Unknown";5335
+"2010.12.11";"Winter";"2010";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5344
+"2010.12.26";"Winter";"2010";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5346
+"2011.03.29.R";"Spring";"2011";"Provoked";"USA";"Texas";"M";"N";"Blacktip Shark";5369
+"2011.04.22";"Spring";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5373
+"2011.04.26";"Spring";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5375
+"2011.05.10";"Spring";"2011";"Provoked";"USA";"Florida";"M";"N";"Sand Tiger Shark";5378
+"2011.05.13.a";"Spring";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5379
+"2011.05.13.b";"Spring";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5381
+"2011.05.22";"Spring";"2011";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";5383
+"2011.05.25";"Spring";"2011";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";5384
+"2011.05.30";"Spring";"2011";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";5386
+"2011.06.06.a";"Summer";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5388
+"2011.06.06.b";"Summer";"2011";"Unprovoked";"USA";"California";"M";"N";"Sevengill Shark";5389
+"2011.06.12";"Summer";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";5391
+"2011.06.21";"Summer";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5396
+"2011.06.24";"Summer";"2011";"Unprovoked";"USA";"California";"M";"N";"White Shark";5397
+"2011.06.26";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"F";"N";"Bull Shark";5398
+"2011.07.07.a";"Summer";"2011";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5404
+"2011.07.07.b";"Summer";"2011";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5405
+"2011.07.13.b";"Summer";"2011";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5407
+"2011.07.19";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5409
+"2011.07.25";"Summer";"2011";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";5411
+"2011.08.11";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5415
+"2011.08.15";"Summer";"2011";"Invalid";"USA";"South Carolina";"M";"N";"Not Shark";5416
+"2011.08.16.b";"Summer";"2011";"Unprovoked";"USA";"Puerto Rico";"M";"N";"Unknown";5418
+"2011.08.17.c.";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5422
+"2011.08.24.a";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5425
+"2011.08.24.b";"Summer";"2011";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5426
+"2011.08.28.a";"Summer";"2011";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";5428
+"2011.08.31";"Summer";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5430
+"2011.09.02";"Fall";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5431
+"2011.09.11.b";"Fall";"2011";"Unprovoked";"USA";"California";"M";"N";"Unknown";5435
+"2011.09.16";"Fall";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5436
+"2011.09.20";"Fall";"2011";"Boating";"USA";"Hawaii";"M";"N";"Unknown";5439
+"2011.09.24.a";"Fall";"2011";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5440
+"2011.09.24.b";"Fall";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5441
+"2011.10.01";"Fall";"2011";"Unprovoked";"USA";"Alabama";"M";"N";"Unknown";5445
+"2011.10.02";"Fall";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5446
+"2011.10.10";"Fall";"2011";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";5449
+"2011.10.11";"Fall";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5450
+"2011.10.20";"Fall";"2011";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";5452
+"2011.10.29.";"Fall";"2011";"Unprovoked";"USA";"California";"M";"N";"White Shark";5456
+"2011.11.22";"Fall";"2011";"Boating";"USA";"California";"M";"N";"White Shark";5460
+"2011.12.06";"Winter";"2011";"Unprovoked";"USA";"Oregon";"F";"N";"Unknown";5465
+"2011.12.21.b";"Winter";"2011";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";5470
+"2011.12.23";"Winter";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5471
+"2011.12.31";"Winter";"2011";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5474
+"2012.01.13";"Winter";"2012";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";5477
+"2012.02.26";"Winter";"2012";"Provoked";"USA";"Florida";"M";"N";"Spinner Shark";5487
+"2012.03.04";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5490
+"2012.03.14.a";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5494
+"2012.03.14.b";"Spring";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5495
+"2012.03.15";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5496
+"2012.03.24";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5499
+"2012.04.00";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5501
+"2012.04.03";"Spring";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5502
+"2012.04.19.b";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5505
+"2012.05.06";"Spring";"2012";"Unprovoked";"USA";"California";"F";"N";"White Shark";5506
+"2012.05.09";"Spring";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5507
+"2012.05.12";"Spring";"2012";"Boating";"USA";"California";"M";"N";"White Shark";5508
+"2012.05.20";"Spring";"2012";"Boating";"USA";"Hawaii";"M";"N";"Tiger Shark";5510
+"2012.05.23";"Spring";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5511
+"2012.05.31";"Spring";"2012";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5513
+"2012.06.02.a";"Summer";"2012";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5514
+"2012.06.02.b";"Summer";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5515
+"2012.06.14.a";"Summer";"2012";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";5519
+"2012.06.14.b";"Summer";"2012";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";5520
+"2012.06.14.c";"Summer";"2012";"Unprovoked";"USA";"South Carolina";"M";"N";"Not Shark";5521
+"2012.06.14.d";"Summer";"2012";"Unprovoked";"USA";"South Carolina";"F";"N";"Blacktip Shark";5522
+"2012.06.15";"Summer";"2012";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";5523
+"2012.06.18";"Summer";"2012";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5524
+"2012.06.22.a";"Summer";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5527
+"2012.06.26.a";"Summer";"2012";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5529
+"2012.06.26.b";"Summer";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5530
+"2012.06.26.c";"Summer";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5531
+"2012.07.07.a";"Summer";"2012";"Boating";"USA";"California";"M";"N";"Unknown";5534
+"2012.07.08";"Summer";"2012";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5537
+"2012.07.30.a";"Summer";"2012";"Unprovoked";"USA";"Massachusetts";"M";"N";"Unknown";5543
+"2012.07.30.b";"Summer";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5544
+"2012.07.31.b";"Summer";"2012";"Unprovoked";"USA";"California";"M";"N";"Unknown";5546
+"2012.08.09";"Summer";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Lemon Shark";5549
+"2012.08.15";"Summer";"2012";"Unprovoked";"USA";"Alabama";"M";"N";"Unknown";5551
+"2012.09.02.a";"Fall";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5555
+"2012.09.02.b";"Fall";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5557
+"2012.09.04";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5558
+"2012.09.06.a";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5559
+"2012.09.06.b";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5560
+"2012.09.08.a";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5561
+"2012.09.08.b";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5562
+"2012.09.16";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5565
+"2012.09.24";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5566
+"2012.09.25";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5567
+"2012.10.07";"Fall";"2012";"Unprovoked";"USA";"California";"M";"N";"Unknown";5569
+"2012.10.18.a";"Fall";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5572
+"2012.10.18.b";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5573
+"2012.10.19";"Fall";"2012";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5574
+"2012.10.23";"Fall";"2012";"Unprovoked";"USA";"California";"M";"Y";"White Shark";5575
+"2012.10.27";"Fall";"2012";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";5576
+"2012.10.30";"Fall";"2012";"Unprovoked";"USA";"California";"M";"N";"White Shark";5577
+"2012.11.04.a";"Fall";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5578
+"2012.11.04.b";"Fall";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5579
+"2012.11.19";"Fall";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5580
+"2012.11.30";"Fall";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5583
+"2012.12.05";"Winter";"2012";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5586
+"2012.12.31";"Winter";"2012";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5591
+"2013.01.16";"Winter";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5594
+"2013.02.21.a";"Winter";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5601
+"2013.04.02.a";"Spring";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5614
+"2013.04.04";"Spring";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5616
+"2013.04.13.b";"Spring";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5619
+"2013.04.17";"Spring";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5621
+"2013.05.04.a";"Spring";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5625
+"2013.05.27.a";"Spring";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5631
+"2013.05.27.b";"Spring";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Galapagos Shark";5632
+"2013.06.06.b";"Summer";"2013";"Provoked";"USA";"Florida";"M";"N";"Lemon Shark";5634
+"2013.06.14.R";"Summer";"2013";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5635
+"2013.06.15";"Summer";"2013";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5636
+"2013.06.17";"Summer";"2013";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5638
+"2013.06.18";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5639
+"2013.06.25.a";"Summer";"2013";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5640
+"2013.06.25.b";"Summer";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5641
+"2013.06.25.c";"Summer";"2013";"Boating";"USA";"California";"M";"N";"White Shark";5642
+"2013.07.11";"Summer";"2013";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5647
+"2013.07.17.R";"Summer";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5650
+"2013.07.19";"Summer";"2013";"Unprovoked";"USA";"Alabama";"F";"N";"Unknown";5651
+"2013.07.29.a";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5655
+"2013.07.30";"Summer";"2013";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5658
+"2013.07.31";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5659
+"2013.08.05";"Summer";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5660
+"2013.08.11";"Summer";"2013";"Unprovoked";"USA";"South Carolina";"M";"N";"Bull Shark";5662
+"2013.08.13";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5663
+"2013.08.14";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"F";"Y";"Tiger Shark";5664
+"2013.08.17";"Summer";"2013";"Unprovoked";"USA";"California";"F";"N";"White Shark";5665
+"2013.08.18";"Summer";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5666
+"2013.08.25.b";"Summer";"2013";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5668
+"2013.08.31.a";"Summer";"2013";"Unprovoked";"USA";"California";"M";"N";"Salmon shark";5671
+"2013.09.01.a";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5673
+"2013.09.01.c";"Fall";"2013";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";5675
+"2013.09.02";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5676
+"2013.09.07.a";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5677
+"2013.09.07.b";"Fall";"2013";"Provoked";"USA";"Florida";"M";"N";"Unknown";5678
+"2013.09.12";"Fall";"2013";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5680
+"2013.09.14";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5681
+"2013.09.21.a";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5682
+"2013.09.21.b";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5683
+"2013.09.25";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5684
+"2013.09.29.b";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5686
+"2013.10.05";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5687
+"2013.10.05";"Fall";"2013";"Unprovoked";"USA";"California";"M";"N";"White Shark";5688
+"2013.10.19";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";5691
+"2013.10.20";"Fall";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5692
+"2013.10.23";"Fall";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Whitetip Reef Shark";5693
+"2013.10.31";"Fall";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5698
+"2013.11.07.a";"Fall";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5699
+"2013.11.07.b";"Fall";"2013";"Unprovoked";"USA";"New Jersey";"M";"N";"Unknown";5700
+"2013.11.22";"Fall";"2013";"Unprovoked";"USA";"Oregon";"M";"N";"White Shark";5703
+"2013.11.29";"Fall";"2013";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5705
+"2013.12.02";"Winter";"2013";"Unprovoked";"USA";"Hawaii";"M";"Y";"Unknown";5707
+"2013.12.10";"Winter";"2013";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5709
+"2013.12.11";"Winter";"2013";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5710
+"2014.03.02";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5724
+"2014.03.21";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5730
+"2014.03.22.a";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5731
+"2014.04.04.a";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5735
+"2014.04.04.b";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5736
+"2014.04.15";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5739
+"2014.04.22";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5740
+"2014.05.01";"Spring";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5742
+"2014.05.06";"Spring";"2014";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5744
+"2014.05.11";"Spring";"2014";"Unprovoked";"USA";"Georgia";"M";"N";"Not Shark";5746
+"2014.05.13";"Spring";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5747
+"2014.05.15";"Spring";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5749
+"2014.06.01.a";"Summer";"2014";"Unprovoked";"USA";"Palmyra Atoll";"F";"N";"Blacktip Reef Shark";5753
+"2014.06.01.c";"Summer";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Bull Shark";5755
+"2014.06.07";"Summer";"2014";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";5756
+"2014.06.09.b";"Summer";"2014";"Unprovoked";"USA";"Delaware";"M";"N";"Sand Tiger Shark";5759
+"2014.07.03";"Summer";"2014";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5766
+"2014.07.05.a";"Summer";"2014";"Unprovoked";"USA";"California";"M";"N";"Unknown";5767
+"2014.07.05.b";"Summer";"2014";"Provoked";"USA";"California";"M";"N";"White Shark";5768
+"2014.07.09";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5769
+"2014.07.12";"Summer";"2014";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5770
+"2014.07.14";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5772
+"2014.07.16";"Summer";"2014";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5773
+"2014.07.21";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5775
+"2014.07.27";"Summer";"2014";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5777
+"2014.08.02";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5781
+"2014.08.02";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5780
+"2014.08.05";"Summer";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5782
+"2014.08.06";"Summer";"2014";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5783
+"2014.08.08";"Summer";"2014";"Unprovoked";"USA";"Louisiana";"M";"N";"Bull Shark";5784
+"2014.08.09";"Summer";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5785
+"2014.08.10";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5787
+"2014.08.12";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5788
+"2014.08.25";"Summer";"2014";"Provoked";"USA";"Florida";"M";"N";"Bull Shark";5791
+"2014.08.27.a";"Summer";"2014";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5792
+"2014.08.27.b";"Summer";"2014";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5793
+"2014.08.28";"Summer";"2014";"Provoked";"USA";"Maryland";"M";"N";"Unknown";5795
+"2014.08.29.b";"Summer";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5797
+"2014.08.31";"Summer";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Spinner Shark";5798
+"2014.09.02";"Fall";"2014";"Provoked";"USA";"Florida";"M";"N";"Unknown";5800
+"2014.09.03";"Fall";"2014";"Boating";"USA";"Massachusetts";"F";"N";"White Shark";5801
+"2014.09.06";"Fall";"2014";"Unprovoked";"USA";"Alabama";"M";"N";"Bull Shark";5802
+"2014.09.21";"Fall";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5806
+"2014.10.02.b";"Fall";"2014";"Unprovoked";"USA";"California";"M";"N";"Unknown";5808
+"2014.10.03.a";"Fall";"2014";"Boating";"USA";"California";"M";"N";"White Shark";5809
+"2014.10.03.b";"Fall";"2014";"Boating";"USA";"California";"M";"N";"White Shark";5810
+"2014.10.05.a";"Fall";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";5811
+"2014.10.05.b";"Fall";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";5813
+"2014.10.07";"Fall";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5812
+"2014.10.12";"Fall";"2014";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5815
+"2014.10.14";"Fall";"2014";"Unprovoked";"USA";"South Carolina";"F";"N";"Bull Shark";5816
+"2014.10.18";"Fall";"2014";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5818
+"2014.10.19";"Fall";"2014";"Boating";"USA";"California";"F";"N";"Unknown";5819
+"2014.10.20";"Fall";"2014";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5820
+"2014.10.22";"Fall";"2014";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";5821
+"2014.10.31";"Fall";"2014";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";5823
+"2014.11.08";"Fall";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5824
+"2014.11.13";"Fall";"2014";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5826
+"2014.11.16";"Fall";"2014";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5827
+"2014.12.28.b";"Winter";"2014";"Unprovoked";"USA";"California";"M";"N";"White Shark";5836
+"2015.01.01";"Winter";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5841
+"2015.01.19.b";"Winter";"2015";"Boating";"USA";"Florida";"M";"N";"White Shark";5848
+"2015.01.27";"Winter";"2015";"Provoked";"USA";"Hawaii";"M";"N";"Unknown";5851
+"2015.03.18";"Spring";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5862
+"2015.04.03";"Spring";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5867
+"2015.04.13";"Spring";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Blue Shark";5870
+"2015.04.26";"Spring";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5873
+"2015.04.29";"Spring";"2015";"Unprovoked";"USA";"Hawaii";"F";"Y";"Unknown";5874
+"2015.05.07";"Spring";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5877
+"2015.05.15";"Spring";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5879
+"2015.05.20";"Spring";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5880
+"2015.05.24";"Spring";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5881
+"2015.05.29.a";"Spring";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5883
+"2015.05.29.b";"Spring";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5884
+"2015.06.05";"Summer";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Nurse Shark";5886
+"2015.06.07";"Summer";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";5887
+"2015.06.11";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"F";"N";"Unknown";5888
+"2015.06.13";"Summer";"2015";"Unprovoked";"USA";"California";"F";"N";"Shortfin Mako Shark";5889
+"2015.06.14.a";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"F";"N";"Bull Shark";5890
+"2015.06.14.b";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Bull Shark";5891
+"2015.06.17";"Summer";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5892
+"2015.06.23";"Summer";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5894
+"2015.06.24.b";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Sand Tiger Shark";5896
+"2015.06.25";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5897
+"2015.06.26.a";"Summer";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5899
+"2015.06.27.b";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Bull Shark";5903
+"2015.06.30.a";"Summer";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5904
+"2015.07-10";"Summer";"2015";"Unprovoked";"USA";"California";"M";"N";"White Shark";5913
+"2015.07.01";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5906
+"2015.07.04.a";"Summer";"2015";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";5909
+"2015.07.23.b";"Summer";"2015";"Provoked";"USA";"California";"M";"N";"Shortfin Mako Shark";5917
+"2015.07.26.b";"Summer";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5920
+"2015.08.10";"Summer";"2015";"Provoked";"USA";"California";"M";"N";"Hammerhead Shark";5924
+"2015.08.18.b";"Summer";"2015";"Boating";"USA";"California";"M";"N";"White Shark";5926
+"2015.08.19";"Summer";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5927
+"2015.08.20";"Summer";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5928
+"2015.08.29.a";"Summer";"2015";"Unprovoked";"USA";"California";"M";"N";"White Shark";5931
+"2015.08.29.b";"Summer";"2015";"Unprovoked";"USA";"California";"F";"N";"White Shark";5932
+"2015.09.03";"Fall";"2015";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";5935
+"2015.09.05";"Fall";"2015";"Provoked";"USA";"California";"M";"N";"Hammerhead Shark";5937
+"2015.09.06";"Fall";"2015";"Unprovoked";"USA";"California";"F";"N";"White Shark";5938
+"2015.09.17";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5940
+"2015.09.18";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5941
+"2015.09.19";"Fall";"2015";"Boating";"USA";"California";"M";"N";"Hammerhead Shark";5942
+"2015.09.20.a";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5943
+"2015.09.20.b";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5944
+"2015.09.20.c";"Fall";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5945
+"2015.09.20.d";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5946
+"2015.09.24";"Fall";"2015";"Boating";"USA";"California";"M";"N";"White Shark";5947
+"2015.09.29";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";5949
+"2015.10.04";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";5950
+"2015.10.05.a";"Fall";"2015";"Unprovoked";"USA";"Texas";"M";"N";"Unknown";5951
+"2015.10.05.b";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5952
+"2015.10.09.a";"Fall";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5955
+"2015.10.09.b";"Fall";"2015";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";5956
+"2015.10.13";"Fall";"2015";"Boating";"USA";"California";"M";"N";"Hammerhead Shark";5957
+"2015.10.17.a";"Fall";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5958
+"2015.10.19";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";5961
+"2015.10.21";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5962
+"2015.10.28.a";"Fall";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5964
+"2015.11.01.b";"Fall";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5967
+"2015.11.03";"Fall";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5968
+"2015.11.15.a";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";5971
+"2015.11.15.b";"Fall";"2015";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";5972
+"2015.11.16";"Fall";"2015";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";5973
+"2015.12.22";"Winter";"2015";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5981
+"2016.01.23";"Winter";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";5987
+"2016.01.24.b";"Winter";"2016";"Unprovoked";"USA";"Texas";"M";"N";"Bull Shark";5989
+"2016.01.25";"Winter";"2016";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";5990
+"2016.01.28";"Winter";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";5991
+"2016.03.04";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6003
+"2016.03.11";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6005
+"2016.03.31";"Spring";"2016";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";6011
+"2016.04.07.b";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6013
+"2016.04.13";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";6016
+"2016.04.23";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6021
+"2016.05.03";"Spring";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";6024
+"2016.05.15";"Spring";"2016";"Provoked";"USA";"Florida";"F";"N";"Nurse Shark";6025
+"2016.05.18";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";6026
+"2016.05.21.a";"Spring";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6027
+"2016.05.21.b";"Spring";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Bull Shark";6028
+"2016.05.22";"Spring";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6029
+"2016.05.29.a";"Spring";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6030
+"2016.05.29.b";"Spring";"2016";"Unprovoked";"USA";"California";"F";"N";"Unknown";6031
+"2016.06.05.b";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6037
+"2016.06.11";"Summer";"2016";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";6039
+"2016.06.14";"Summer";"2016";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";6040
+"2016.06.15.b";"Summer";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";6042
+"2016.06.21.a";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6043
+"2016.06.21.b";"Summer";"2016";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";6044
+"2016.06.25";"Summer";"2016";"Unprovoked";"USA";"North Carolina";"M";"N";"Unknown";6047
+"2016.06.27";"Summer";"2016";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";6048
+"2016.07.06";"Summer";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6050
+"2016.07.07.a";"Summer";"2016";"Boating";"USA";"California";"M";"N";"White Shark";6051
+"2016.07.07.b";"Summer";"2016";"Provoked";"USA";"Massachusetts";"M";"N";"Dogfish Shark";6052
+"2016.07.08";"Summer";"2016";"Boating";"USA";"California";"M";"N";"White Shark";6053
+"2016.07.15.a";"Summer";"2016";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";6056
+"2016.07.15.b";"Summer";"2016";"Unprovoked";"USA";"California";"M";"N";"White Shark";6057
+"2016.07.16.a";"Summer";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6058
+"2016.07.16.b";"Summer";"2016";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6059
+"2016.07.27";"Summer";"2016";"Provoked";"USA";"Florida";"M";"N";"Nurse Shark";6066
+"2016.08.04";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Blacktip Shark";6070
+"2016.08.06";"Summer";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";6071
+"2016.08.25";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6073
+"2016.08.29.a";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6075
+"2016.08.29.b";"Summer";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";6076
+"2016.09.01";"Fall";"2016";"Unprovoked";"USA";"California";"M";"N";"White Shark";6078
+"2016.09.04";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6079
+"2016.09.05.b";"Fall";"2016";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";6081
+"2016.09.07";"Fall";"2016";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";6083
+"2016.09.11";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6084
+"2016.09.17.b";"Fall";"2016";"Unprovoked";"USA";"California";"M";"N";"Unknown";6088
+"2016.09.18.a";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6089
+"2016.09.18.b";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6090
+"2016.09.18.c";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6091
+"2016.10.01";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6093
+"2016.10.02";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6094
+"2016.10.10";"Fall";"2016";"Unprovoked";"USA";"Oregon";"M";"N";"Unknown";6095
+"2016.10.14";"Fall";"2016";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";6098
+"2016.10.21";"Fall";"2016";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";6100
+"2016.10.29";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6102
+"2016.10.30";"Fall";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6103
+"2016.11.14";"Fall";"2016";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";6104
+"2016.12.27";"Winter";"2016";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6113
+"2017.01.05";"Winter";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6115
+"2017.01.13.a";"Winter";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6118
+"2017.01.22";"Winter";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6121
+"2017.02.11";"Winter";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6127
+"2017.03.18";"Spring";"2017";"Boating";"USA";"California";"M";"N";"White Shark";6134
+"2017.03.27";"Spring";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6136
+"2017.04.02.a";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Bull Shark";6137
+"2017.04.05";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6139
+"2017.04.06";"Spring";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6140
+"2017.04.10.a";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6141
+"2017.04.10.b";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6142
+"2017.04.11";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6143
+"2017.04.12.b";"Spring";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6145
+"2017.04.13";"Spring";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6146
+"2017.04.14";"Spring";"2017";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";6147
+"2017.04.29.b";"Spring";"2017";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";6155
+"2017.04.29.d";"Spring";"2017";"Unprovoked";"USA";"California";"F";"N";"Unknown";6157
+"2017.05.28";"Spring";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Tiger Shark";6163
+"2017.05.30";"Spring";"2017";"Provoked";"USA";"South Carolina";"F";"N";"Unknown";6164
+"2017.06.04";"Summer";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6166
+"2017.06.10.a";"Summer";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6168
+"2017.06.18.b";"Summer";"2017";"Unprovoked";"USA";"South Carolina";"F";"N";"Bull Shark";6175
+"2017.06.19";"Summer";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6176
+"2017.06.21";"Summer";"2017";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";6177
+"2017.07.09";"Summer";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";6182
+"2017.07.11";"Summer";"2017";"Boating";"USA";"California";"M";"N";"White Shark";6183
+"2017.07.14.b";"Summer";"2017";"Unprovoked";"USA";"Washington";"M";"N";"White Shark";6185
+"2017.07.20.a";"Summer";"2017";"Unprovoked";"USA";"California";"M";"N";"White Shark";6186
+"2017.07.20.b";"Summer";"2017";"Boating";"USA";"California";"M";"N";"White Shark";6187
+"2017.07.22";"Summer";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6189
+"2017.07.23.b";"Summer";"2017";"Unprovoked";"USA";"New Jersey";"F";"N";"Sand Tiger Shark";6191
+"2017.07.29.a";"Summer";"2017";"Unprovoked";"USA";"South Carolina";"F";"N";"Unknown";6195
+"2017.07.31";"Summer";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6197
+"2017.08.01";"Summer";"2017";"Boating";"USA";"California";"M";"N";"White Shark";6198
+"2017.08.03";"Summer";"2017";"Provoked";"USA";"Massachusetts";"M";"N";"Unknown";6199
+"2017.08.10";"Summer";"2017";"Unprovoked";"USA";"South Carolina";"M";"N";"Blacktip Shark";6201
+"2017.08.23";"Summer";"2017";"Unprovoked";"USA";"Massachusetts";"M";"N";"White Shark";6203
+"2017.08.27";"Summer";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6206
+"2017.09.02.a";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6208
+"2017.09.02.b";"Fall";"2017";"Unprovoked";"USA";"Texas";"F";"N";"Unknown";6209
+"2017.09.02.c";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Nurse Shark";6210
+"2017.09.13";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6216
+"2017.09.16.a";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6220
+"2017.09.20";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6222
+"2017.09.24.a";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6223
+"2017.09.25.b";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6226
+"2017.10.05";"Fall";"2017";"Unprovoked";"USA";"Hawaii";"F";"N";"Unknown";6228
+"2017.10.09";"Fall";"2017";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";6229
+"2017.10.18";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Spinner Shark";6230
+"2017.10.23.a";"Fall";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6233
+"2017.10.23.b";"Fall";"2017";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6234
+"2017.10.26";"Fall";"2017";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";6236
+"2017.11.18";"Fall";"2017";"Unprovoked";"USA";"Florida";"F";"N";"Unknown";6242
+"2017.11.24";"Fall";"2017";"Unprovoked";"USA";"California";"M";"N";"White Shark";6243
+"2017.12.30";"Winter";"2017";"Unprovoked";"USA";"California";"F";"N";"Unknown";6249
+"2017.12.31";"Winter";"2017";"Unprovoked";"USA";"Hawaii";"F";"N";"Tiger Shark";6250
+"2018.03.31";"Spring";"2018";"Unprovoked";"USA";"Hawaii";"M";"N";"Tiger Shark";6268
+"2018.04.19";"Spring";"2018";"Unprovoked";"USA";"Hawaii";"M";"N";"Unknown";6278
+"2018.05.13.b";"Spring";"2018";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";6291
+"2018.05.21";"Spring";"2018";"Unprovoked";"USA";"South Carolina";"M";"N";"Unknown";6292
+"2018.05.26.a";"Spring";"2018";"Unprovoked";"USA";"Florida";"M";"N";"Unknown";6294
+"2018.05.26.b";"Spring";"2018";"Unprovoked";"USA";"Florida";"M";"N";"Bull Shark";6295
+"2018.05.27";"Spring";"2018";"Unprovoked";"USA";"Florida";"M";"N";"Lemon Shark";6296
+"2018.06.09";"Summer";"2018";"Invalid";"USA";"Hawaii";"M";"N";"Unknown";6301
+"2018.06.18";"Summer";"2018";"Unprovoked";"USA";"Georgia";"F";"N";"Unknown";6302
+"2018.06.25";"Summer";"2018";"Boating";"USA";"California";"F";"N";"White Shark";6303
