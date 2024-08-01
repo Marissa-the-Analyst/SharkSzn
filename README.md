@@ -1,5 +1,6 @@
 # SharkSzn
-An exploratory analysis on shark attacks in the USA
+An exploratory analysis on shark attacks in the USA <br>
+To view the finished dashboard [click here](https://public.tableau.com/app/profile/marissa.nash/viz/SharkAttacks_17225411482070/Dashboard1)
 
 ### Scope of Work ###
 **Deliverables**
@@ -38,10 +39,11 @@ The goal of this project is to analyze shark attacks for trends and patterns. Sh
 | Species had a persistent ' ' | Updated rows with ' ' to Unknown|
 
 
-**Data Opportunities**
+**Data Opportunities** <br>
 There are opportunities to Parse the text into appropriate categories under Activity and Injury, but that is beyond my abilities.
 
-**Finished Product**
+**Finished Product** <br>
+To view the finished dashboard [click here](https://public.tableau.com/app/profile/marissa.nash/viz/SharkAttacks_17225411482070/Dashboard1)
 
-
-**Reflection**
+**Reflection** <br>
+I've taken this very dirty dataset and turned it into usable data. I met all of the proposed use cases through my dashboard. I love that the source data provided the opportunity to work with shark species and finding which ones were involved with what type of incidents was very interesting and unique for me. In the end there were over 30 different standardizations that needed to be done to the Species data alone and that was a great exercise for me. I am much more comfortable using MYSQL now and I understand the capabilities of Tableau better. I wish I knew how to formulate Maps better as they were featured heavily in this data. I look forward to seeing how my skills improve to create a better visualization in the future. 
